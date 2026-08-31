@@ -13,3 +13,7 @@ Canonical five-role triage vocabulary. See `docs/agents/triage-labels.md`.
 ### Domain docs
 
 Single-context layout (`CONTEXT.md` + `docs/adr/`). See `docs/agents/domain.md`.
+
+### External capabilities
+
+Project-declared capabilities. See `docs/agents/capabilities.md`.
