@@ -15,3 +15,28 @@
 - Locator does not imply Browser readability.
 - NotebookLM is retrieval / synthesis support, not Project Authority.
 - Auth/session secrets remain host-local and must not enter Git or relay payloads.
+
+### Routing Trigger
+When a curriculum-design work unit (especially a Stage Contract) depends materially on existing:
+- textbooks / source books
+- theoretical interpretations
+- artist / case-study material
+- prior teaching notes
+- prior NotebookLM synthesis
+
+and those questions are not already sufficiently settled by official institutional sources or current Project Authority, the Browser/Agent should explicitly evaluate whether course-notebook is load-bearing.
+
+If load-bearing:
+- route the narrowest necessary Knowledge / Fact Probe to the declared Known host;
+- for the current user-invoked access path, the user must explicitly invoke /notebooklm in the IDE host;
+- do not perform broad Notebook scans by default.
+
+Do NOT invoke course-notebook mechanically when:
+- the task is only checking official schedules / institutional rules;
+- current Project Authority already answers the question sufficiently;
+- external knowledge would not materially affect the decision.
+
+Evidence semantics:
+- NotebookLM results remain Reported with provenance;
+- NotebookLM is not Project Authority;
+- adopted conclusions must be persisted back into the appropriate repo artifact before becoming shared project state.
