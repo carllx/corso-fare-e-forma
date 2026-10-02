@@ -7,8 +7,8 @@
 > **执行流程偏差说明**：`PROCESS DEVIATION: Synchronous main-agent execution without background agent`  
 > （本次研究由主 Agent 直接执行深度检索、一手文献比对与结构化整合，未启用后台并行子智能体，执行过程全程同步留痕）。  
 > **证据等级与来源分级体系**：  
-> - `[PRIMARY TEXT]`：艺术家本人撰写的原始文本、自述、宣言、出版物、原始记谱卡片（Score）；  
-> - `[FIRST-PARTY ARCHIVE]`：公立博物馆、基金会与档案馆的一手馆藏记录、官方藏品编目与展览文献；  
+> - `[PRIMARY TEXT]`：艺术家本人亲笔撰写的原始文本、自述、宣言、出版物、原始记谱卡片（Score）或访谈（仅限有确凿一手文献指针的引文与规定）；  
+> - `[FIRST-PARTY ARCHIVE]`：公立博物馆、基金会与档案馆的一手馆藏记录、官方藏品编目、策展记录与展览文献（博物馆对作品制作过程的重构与描述属于此类，不得混为 PRIMARY TEXT）；  
 > - `[SECONDARY SCHOLARSHIP]`：后继学者、批评家撰写的学术专著、编著或展览图录评论（次级文献绝不冒充一手证据）；  
 > - `[DESIGN HYPOTHESIS / OPEN]`：针对教学情境的假设性推断，属于开放性学术推演，非历史事实；  
 > - `[POSSIBLE DESIGN IMPLICATION — NOT ADOPTED]`：基于艺术机制对本课程潜在转译方向的推断，严格界定为未被课程大纲采纳的备选思路，绝不冒充官方已批准教学规则；  
@@ -102,11 +102,11 @@
 #### 3. 代表性一手案例与馆藏档案
 *   **Sol LeWitt (索尔·勒维特)**:
     *   *文献宣言 `[PRIMARY TEXT]`*：《Paragraphs on Conceptual Art》(观念艺术段落), *Artforum*, Vol. 5, No. 10, Summer 1967, pp. 79–83：“In conceptual art the idea or concept is the most important aspect of the work... The execution is a perfunctory affair.”
-    *   *墙画指令案例 `[FIRST-PARTY ARCHIVE]`*：`Wall Drawing #118` (1971 年 12 月首次执行于波士顿美术馆学校). Sol LeWitt Wall Drawings Catalogue Raisonné No. `WD 118` (Artifex Press / Yale University Art Gallery).
+    *   *墙画指令案例 `[PRIMARY TEXT]`*：`Wall Drawing #118` (1971 年 12 月首次执行于波士顿美术馆学校). Sol LeWitt Wall Drawings Catalogue Raisonné No. `WD 118` (Artifex Press / Yale University Art Gallery).
         *   *官方指令原文 `[PRIMARY TEXT]`*：“On a wall surface, any continuous stretch of wall, using a hard pencil, place fifty points at random. The points should be evenly distributed over the area of the wall. All of the points should be connected by straight lines.”
     *   *实体变体推演 `[FIRST-PARTY ARCHIVE]`*：《Incomplete Open Cubes》(不完整的开方体), 1974 年。
         *   *馆藏档案*：San Francisco Museum of Modern Art (SFMOMA), Accession Number: `97.516.A-KKKKKKKKKK` ([SFMOMA Collection Record](https://www.sfmoma.org/artwork/97.516.A-KKKKKKKKKK/)).
-        *   *规则体系 `[PRIMARY TEXT]`*：基于正方体的 12 条棱边，穷尽推演由 3 至 11 条棱边构成的所有空间连接可能性，剔除旋转同构后，得出 122 个实体结构变体。
+        *   *规则体系 `[PRIMARY TEXT]`*：基于正方体的 12 条棱边，穷尽推演由 3 至 11 条棱边构成的所有空间连接可能性，剔除旋转同构后，得出 122 个实体结构变体（Sol LeWitt, *The Location of Lines*, 1974）。
 
 #### 4. 参与者实际上被要求做什么
 参与者扮演系统执行者的角色。在二维平面上根据组合规则连线（50 点两两相连产生 $\frac{50 \times 49}{2} = 1225$ 条直线）；在三维空间中依据拓扑排布组装结构单体，不依赖即兴灵感，而是完成逻辑系统的完整遍历。
@@ -139,8 +139,8 @@
     *   *一手文本属性 `[PRIMARY TEXT]`*：两页纸上的手写铅笔清单，列出 84 个及物动词（如 to roll, to crease, to fold, to bend, to shorten, to twist, to splash, to tear）与 24 个关系范畴（of gravity, of entropy, of nature）。首次公开发表于 *Avalanche*, No. 2, Winter 1971.
     *   *关联实体作品 `[FIRST-PARTY ARCHIVE]`*：《To Lift》(提起), 1967 年（硫化橡胶板通过单一抓起立于重力中的动作成型），MoMA Object Number: `458.2007` ([MoMA Collection Record 101902](https://www.moma.org/collection/works/101902)).
 *   **Erwin Wurm (埃尔温·沃姆)**: 《One Minute Sculptures》(一分钟雕塑), 1997 年至今。
-    *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：Centre Pompidou, Musée national d'art moderne (Paris), Inventaire: `AM 2001-133` (Video: *One Minute Sculptures*, 1997–1998, 60 min, [Pompidou Record](https://www.centrepompidou.fr/en/ressources/oeuvre/cRbg8a)); Tate Modern (London), Collection Prints and Drawings.
-    *   *规则形式 `[PRIMARY TEXT]`*：利用日常生活器具（如扫帚、水桶、椅子），配合图文指令要求身体保持反常态的物理姿势，并在重力制约下严格维持静止 60 秒。
+    *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：Centre Pompidou, Musée national d'art moderne (Paris), Inventaire: `AM 2001-133` (Video: *One Minute Sculptures*, 1997–1998, 60 min, [Pompidou Record](https://www.centrepompidou.fr/en/ressources/oeuvre/cLz5je)); Tate Modern (London), Collection Prints and Drawings.
+    *   *动作规则与操作情境 `[FIRST-PARTY ARCHIVE / CURATORIAL DOCUMENTATION]`*：利用日常生活器具（如扫帚、水桶、椅子），配合图文指示要求身体保持反常态的物理平衡姿态，并在重力制约下维持静止 60 秒（来源：Centre Pompidou Collection Record cLz5je, Inv. AM 2001-133；Tate Modern Collection）。
 
 #### 4. 参与者实际上被要求做什么
 *   在塞拉模式下，执行者选取单一及物动词（如“折叠”或“卷曲”），反复施加于铅皮、橡胶或泥板等均质材料，直至材料由于自身物理刚度与重力达到静力学平衡；
@@ -173,10 +173,10 @@
 #### 3. 代表性一手案例与馆藏档案
 *   **Marcel Duchamp (马塞尔·杜尚)**: 《3 Stoppages Étalon》(3 个标准终止 / 3 个尺规原型), 1913–1914 年。
     *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：The Museum of Modern Art (MoMA), New York. Katherine S. Dreier Bequest, Object Number: `149.1953.a-i` ([MoMA Collection Record 78990](https://www.moma.org/collection/works/78990)).
-    *   *实验程序 `[PRIMARY TEXT]`*：杜尚《绿盒笔记》(The Green Box, 1934) 记录：“从 1 米高处平放 1 米长的细线，任其在重力作用下自然下落到涂满颜料的画布上，形成扭曲形态；沿其自然轮廓裁切 3 根木质尺规”，将偶然曲线制度化为度量工具。
+    *   *实验程序 `[PRIMARY TEXT]`*：杜尚《绿盒笔记》(The Green Box, 1934) 亲笔记录：“从 1 米高处平放 1 米长的细线，任其在重力作用下自然下落到涂满颜料的画布上，形成扭曲形态；沿其自然轮廓裁切 3 根木质尺规”，将偶然曲线制度化为度量工具。
 *   **Jean (Hans) Arp (汉斯·阿尔普)**: 《Untitled (Collage with Squares Arranged according to the Law of Chance)》(根据偶然规律排列的正方形拼贴), 1916–1917 年。
     *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：The Museum of Modern Art (MoMA), New York. Purchase, Object Number: `457.1937` ([MoMA Collection Record 37013](https://www.moma.org/collection/works/37013)).
-    *   *制作程序 `[PRIMARY TEXT]`*：撕碎色纸片，自高处任其散落于底板上，根据其受空气阻力与重力作用下的自然降落停滞位置进行原位贴合。
+    *   *制作程序与流传记述 `[FIRST-PARTY ARCHIVE / CONTEMPORANEOUS ACCOUNT]`*：据同时代达达主义同仁汉斯·里希特（Hans Richter, *Dada: Art and Anti-Art*）等人的记述及 MoMA 策展档案记录，阿尔普将撕碎的色纸片从高处任其自由散落于底板上，再依其降落停滞的位置贴合固定。但 MoMA 馆藏研究档案明确指出重要限定：尽管“机缘（Chance）”被视作核心探索，拼贴中方块相对匀称有序的构成视觉表明，阿尔普很可能并未完全放弃主观构图控制（此即通常所称的“受辅助的机缘”[Assisted Chance]）（来源：MoMA Collection Record 37013, Object No. 457.1937）。
 
 #### 4. 参与者实际上被要求做什么
 参与者负责搭建实验初始边界（下落高度、介质阻力、底板粘性），并在动作触发瞬间放开双手。参与者的职责是忠实观察物理事件的偶发沉降，抑制中途伸手干预调整的冲动。
@@ -209,7 +209,7 @@
 *   **Eva Hesse (伊娃·海瑟)**:
     *   *核心作品 `[FIRST-PARTY ARCHIVE]`*：《Repetition Nineteen III》(重复十九号之三), 1968 年。
         *   *馆藏档案*：The Museum of Modern Art (MoMA), New York. Gift of Charles and Anita Blatt, Object Number: `1004.1969.a-s` ([MoMA Collection Record 81930](https://www.moma.org/collection/works/81930)).
-        *   *材料工艺与程序 `[PRIMARY TEXT]`*：19 件玻璃纤维与聚酯树脂手工浇铸而成的筒状单体。尽管模具初始规格相近，但因树脂涂抹厚度差异与固化重力拉扯，各单体在边缘褶皱与倾角上产生有机分化；艺术家明确要求在展场地面呈非均质散布。
+        *   *材料工艺与安装特征 `[FIRST-PARTY ARCHIVE]`*：19 件纯手工以玻璃纤维与聚酯树脂浇铸制作的筒状单体。各单体规格与形态相似，但由于手工涂覆厚度与材料固化收缩差异，单体之间呈现不规则微差，绝非绝对均质相同；作品直接放置于展厅地面（无基座）；海瑟本人并未指定任何单一固定的陈列排列方式，群组的具体形态与排列间距在每次展览安装时均可发生变化，作品不存在单一首选或理想的安装格式（来源：The Museum of Modern Art Collection Record 81930, Object No. 1004.1969.a-s）。
     *   *对照作品 `[FIRST-PARTY ARCHIVE]`*：《Accession II》(就位二号), 1967–1968 年。
         *   *馆藏档案*：Detroit Institute of Arts (DIA), Founders Society Purchase, Acc. No. `79.34` ([DIA Collection Record](https://dia.org/collection/accession-ii-58963)). 穿孔钢板立方体内手工穿引上万根聚氯乙烯细管。
 
@@ -241,14 +241,13 @@
 #### 3. 代表性一手案例与馆藏档案
 *   **Lygia Clark (莱吉亚·克拉克)**:
     *   *核心作品 1 `[FIRST-PARTY ARCHIVE]`*：《Caminhando》(行走), 1963 年。
-        *   *一手文本 `[PRIMARY TEXT]`*：取纸带一端旋转 180 度粘结为莫比乌斯环（Möbius strip）。参与者持剪刀沿长轴连续剪切，随着纸带变窄，在遇及剪切分叉时必须自主抉择路径，直至纸带断裂。克拉克自述：“In Caminhando, there is only one type of duration: the act. The work is your act alone.”
+        *   *一手文本 `[PRIMARY TEXT]`*：取纸带一端旋转 180 度粘结为莫比乌斯环（Möbius strip）。参与者持剪刀沿长轴连续剪切，随着纸带变窄，在遇及剪切分叉时必须自主抉择路径，直至纸带断裂。克拉克发表声明自述：“In Caminhando, there is only one type of duration: the act. The work is your act alone.”
         *   *档案来源*：Associação Cultural Lygia Clark (Rio de Janeiro); Tate Modern Research Database.
     *   *核心作品 2 `[FIRST-PARTY ARCHIVE]`*：《Máscaras Sensoriais》(感官面罩), 1967 年。
-        *   *结构体系 `[PRIMARY TEXT]`*：缝制不透光布面罩，鼻腔植入香料袋，眼部嵌滤镜，耳部缝海螺。参与者佩戴面罩后视觉被过滤，强化触觉与听觉对外部物质的感知。
-        *   *馆藏档案*：Associação Cultural Lygia Clark; Pinacoteca de São Paulo.
+        *   *装置结构与感官配置 `[FIRST-PARTY ARCHIVE]`*：缝制不透光布面罩，鼻腔植入香料袋，眼部嵌滤镜，耳部缝海螺。参与者佩戴面罩后视觉被过滤，强化触觉与听觉对外部物质的感知（来源：Associação Cultural Lygia Clark; Pinacoteca de São Paulo）。
 *   **Bruce Nauman (布鲁斯·诺曼)**: 《Walking in an Exaggerated Manner Around the Perimeter of a Square》(以夸张姿态沿正方形边缘行走), 1967–1968 年。
     *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：The Museum of Modern Art (MoMA), New York. Acquired through the generosity of Courtney Plummer, Object Number: `269.2008` ([MoMA Collection Record 117947](https://www.moma.org/collection/works/117947)).
-    *   *规则动作 `[PRIMARY TEXT]`*：在地面贴出几何正方形，以反常的慢速与夸张肢体动作沿线巡回，固定机位记录身体在严密空间几何管辖下的张力状态。
+    *   *动作程序与影像记录 `[FIRST-PARTY ARCHIVE]`*：在地面贴出几何正方形，以反常的慢速与夸张肢体动作沿线巡回，固定机位记录身体在严密空间几何管辖下的张力状态（来源：MoMA Collection Record 117947; Electronic Arts Intermix）。
 
 #### 4. 参与者实际上被要求做什么
 参与者全身心投入物理生理过程。在克拉克那里，参与者在剪刀阻力与空间分叉中体会动作的时间性；在感官遮蔽下，参与者纯粹依靠手掌与触觉感知泥土、石材或金属的肌理温度；在诺曼那里，身体被纳入精确的几何框架中运转。
@@ -282,10 +281,10 @@
     *   *文献宣言 `[PRIMARY TEXT]`*：《Anti Form》(反形式), *Artforum*, Vol. 6, No. 8, April 1968, pp. 33–35：“Random piling, loose stacking, hanging, give passing form to the material. Chance is accepted and indeterminacy is implied.”
     *   *代表性作品 `[FIRST-PARTY ARCHIVE]`*：《Untitled (Pink Felt)》(无题 [粉色毛毡]), 1970 年。
         *   *馆藏档案*：Solomon R. Guggenheim Museum (New York), Panza Collection, Accession Number: `91.3804` ([Guggenheim Record 91.3804](https://www.guggenheim.org/artwork/3008)).
-        *   *材料规则 `[PRIMARY TEXT]`*：厚工业毛毡被切割出平行的几何切口，随后在墙面挂钩或地面自然悬垂堆叠。几何切口因自重与柔韧性产生下垂、折叠与深阴影，形成富于体积感的柔性雕塑。
+        *   *材料规格与物理形变 `[FIRST-PARTY ARCHIVE]`*：厚工业毛毡被切割出平行的几何切口，随后在墙面挂钩或地面自然悬垂堆叠。几何切口因自重与柔韧性产生下垂、折叠与深阴影，形成富于体积感的柔性雕塑（来源：Solomon R. Guggenheim Museum Panza Collection Acc. No. 91.3804）。
 *   **Lee Ufan (李禹焕)**: 《Relatum》(关系项 / 原名《现象与知觉 B》), 1968 年首创。
     *   *馆藏与文献档案 `[FIRST-PARTY ARCHIVE]`*：National Museum of Modern Art, Tokyo; Solomon R. Guggenheim Museum (2011 回顾展《Marking Infinity》官方编目).
-    *   *物理法则 `[PRIMARY TEXT]`*：将未加工的天然巨石落于平铺在钢板上的平板玻璃表面，石块重力使玻璃碎裂成网状裂纹。艺术家不进行刻意雕饰，而是揭示天然石、工业玻璃与钢板在瞬时受力下的物质相遇。
+    *   *物理配置程序 `[FIRST-PARTY ARCHIVE]`*：将未加工的天然巨石落于平铺在钢板上的平板玻璃表面，石块重力使玻璃碎裂成网状裂纹。艺术家不进行刻意雕饰，而是揭示天然石、工业玻璃与钢板在瞬时受力下的物质相遇（来源：Solomon R. Guggenheim Museum, *Lee Ufan: Marking Infinity*, 2011; National Museum of Modern Art, Tokyo）。
 
 #### 4. 参与者实际上被要求做什么
 参与者停止雕刻与塑形，转向设计“力学边界”。例如：将含水纤维物料悬挂于不同支撑点，观察水分蒸发与重力拉扯下的自然塑形；或将不同刚度、摩擦系数的材料直接堆叠，寻找其临界平衡状态。
@@ -319,12 +318,12 @@
     *   *馆藏档案 1 `[FIRST-PARTY ARCHIVE]`*：The Museum of Modern Art (MoMA), New York. Scott Burton Fund, Object Numbers: `1060.2010.1`–`1060.2010.58` ([MoMA Collection Record 163552](https://www.moma.org/collection/works/163552)).
     *   *馆藏档案 2 `[FIRST-PARTY ARCHIVE]`*：MUSEUM MMK FÜR MODERNE KUNST (Frankfurt am Main), Inventarnummer: `1981/54` (ehemals Sammlung Karl Ströher).
     *   *基金会档案 `[FIRST-PARTY ARCHIVE]`*：Franz Erhard Walther Foundation (Fulda).
-    *   *理论与操作体系 `[PRIMARY TEXT]`*：58 件缝制布料构件。静置时为“储存形态（Lagerform）”，当观众展开穿戴、共同受力拉伸时转化为“行动形态（Handlungsform）”。
+    *   *理论与操作体系 `[PRIMARY TEXT]`*：58 件缝制布料构件。静置时为“储存形态（Lagerform）”，当观众展开穿戴、共同受力拉伸时转化为“行动形态（Handlungsform）”（Franz Erhard Walther, *Objekte, benutzen / Work as Action*, Cologne: DuMont, 1972）。
         *   `Körpergewichte` (身体配重): 两人分别立于相连布带两端，依靠后仰的身体自重互相平衡；
         *   `Sehkanal` (视觉通道): 两人各套入布料管道两端，依靠身体牵引调整视线与距离。
 *   **Lygia Clark (莱吉亚·克拉克)**: 《Rede de Elásticos》(弹性网络), 1973 年（巴黎第一大学/索邦工坊）。
     *   *文献档案 `[FIRST-PARTY ARCHIVE]`*：Associação Cultural Lygia Clark, "The Sorbonne Years (1972–1976)".
-    *   *互动规则 `[PRIMARY TEXT]`*：全班共同套入交织的弹性橡胶带网络中，任何个体的蹲起或位移均通过弹性网络瞬间向全场传导力学反馈。
+    *   *工坊互动规则 `[FIRST-PARTY ARCHIVE]`*：全班共同套入交织的弹性橡胶带网络中，任何个体的蹲起或位移均通过弹性网络瞬间向全场传导力学反馈（来源：Associação Cultural Lygia Clark）。
 
 #### 4. 参与者实际上被要求做什么
 参与者不再是孤立的创作者，而是成为受力网络中的互动节点。参与者必须与同伴对话、协商重心、同步动作，任何单方面的失控都会导致整体受力结构失效。
@@ -356,10 +355,10 @@
 #### 3. 代表性一手案例与馆藏档案
 *   **Gordon Matta-Clark (戈登·马塔-克拉克)**: 《Splitting》(裂开), 1974 年（美国新泽西州恩格尔伍德待拆迁木屋）。
     *   *馆藏与文献档案 `[FIRST-PARTY ARCHIVE]`*：Canadian Centre for Architecture (CCA, Montreal), Gordon Matta-Clark Collection, Collection No. `PH1982:0212`; The Museum of Modern Art (MoMA), New York, Object Number: `326.1991` ([MoMA Collection Record 50871](https://www.moma.org/collection/works/50871)).
-    *   *减法工程法则 `[PRIMARY TEXT]`*：在双层木屋中心用电锯切开一道 1 英寸的垂直通缝，并将后半部地基削低，使木屋向后倾斜形成逐渐扩大的光缝，使封闭结构内部与外部天空产生直接视觉沟通。
+    *   *减法工程法则 `[PRIMARY TEXT]`*：在双层木屋中心用电锯切开一道 1 英寸的垂直通缝，并将后半部地基削低，使木屋向后倾斜形成逐渐扩大的光缝，使封闭结构内部与外部天空产生直接视觉沟通（Gordon Matta-Clark, *Splitting*, New York: Loft Press, 1974）。
 *   **Richard Long (理查德·朗)**: 《A Line Made by Walking》(行走留下的线), 1967 年。
     *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：Tate Modern (London), Purchased 1976, Reference Number: `P07149` ([Tate Collection Record P07149](https://www.tate.org.uk/art/artworks/long-a-line-made-by-walking-p07149)).
-    *   *极简动作程序 `[PRIMARY TEXT]`*：在草地上反复沿直线往返行走，直至被鞋底踩倒的草叶在光线折射下形成一条清晰的直线痕迹，随后以摄影记录。
+    *   *极简动作程序与摄影记录 `[FIRST-PARTY ARCHIVE]`*：在草地上反复沿直线往返行走，直至被鞋底踩倒的草叶在光线折射下形成一条清晰的直线痕迹，随后以摄影记录（来源：Tate Collection Record P07149）。
 
 #### 4. 参与者实际上被要求做什么
 参与者寻找特定场地中被忽视的局部（如通道转角、采光死角、栏杆与墙壁夹缝），通过轻量的阻断、穿透、遮挡或反复踩踏走动，测量并记录空间的穿行感受、采光与尺度变化。
@@ -482,7 +481,7 @@
    - Richard Long, *A Line Made by Walking* (1967). Purchased 1976, Reference Number: `P07149` ([Tate Collection Record P07149](https://www.tate.org.uk/art/artworks/long-a-line-made-by-walking-p07149)).
    - Erwin Wurm, *One Minute Sculptures* series records. Tate Modern Collection Prints and Drawings.
 3. **Centre Pompidou, Musée national d'art moderne, Paris**:
-   - Erwin Wurm, *One Minute Sculptures* (1997–1998, Video, 60 min). Numéro d'inventaire: `AM 2001-133` ([Pompidou Collection Record](https://www.centrepompidou.fr/en/ressources/oeuvre/cRbg8a)).
+   - Erwin Wurm, *One Minute Sculptures* (1997–1998, Video, 60 min). Numéro d'inventaire: `AM 2001-133` ([Pompidou Collection Record](https://www.centrepompidou.fr/en/ressources/oeuvre/cLz5je)).
 4. **San Francisco Museum of Modern Art (SFMOMA)**:
    - Sol LeWitt, *Incomplete Open Cubes* (1974). Accession Number: `97.516.A-KKKKKKKKKK` ([SFMOMA Collection Record](https://www.sfmoma.org/artwork/97.516.A-KKKKKKKKKK/)).
 5. **Solomon R. Guggenheim Museum, New York**:
@@ -506,7 +505,8 @@
 5. **Martin, Henry**. *An Introduction to George Brecht's Book of the Tumbler on Fire*. Milan: Multhipla Edizioni, 1978.
 6. **Munroe, Alexandra**. *Lee Ufan: Marking Infinity*. New York: Solomon R. Guggenheim Museum, 2011.
 7. **Nixon, Mignon**, ed. *Eva Hesse*. Cambridge, MA: MIT Press (October Files), 2002.
-8. **Serra, Richard**. *Writings / Interviews*. Chicago: University of Chicago Press, 1994.
+8. **Richter, Hans**. *Dada: Art and Anti-Art*. London: Thames & Hudson, 1965.
+9. **Serra, Richard**. *Writings / Interviews*. Chicago: University of Chicago Press, 1994.
 
 ---
 *报告归档节点：实践范式图谱证据核验与来源分级修订完成，成果正式归档于 `docs/research/practice-paradigms-map.md`。*
