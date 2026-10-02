@@ -2,9 +2,16 @@
 
 > **文档性质**：独立研究档案（Research Artifact）  
 > **研究议题**：对于《造物与创格》雕塑与公共艺术学院小班，有哪些已有的艺术实践范式能够通过“规则化行动”持续驱动学生实践，而不是依赖教师长时间讲授或学生直接构思最终作品？  
-> **证据等级说明**：  
-> - 案例、文本、馆藏编号与历史事实标注为 `[PRIMARY SOURCE]` 或 `[ARCHIVAL EVIDENCE]`；  
-> - 针对本课程四阶段（Part 1 / Part 2 / Part 3）的映射潜力分析明确标注为 `[RESEARCHER INFERENCE]`，严格界定为研究者推断，绝不冒充历史原作者的教学或创作本意；  
+> **分类体系性质声明**：`[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`  
+> 本报告提出的“九大实践范式”为课程研究者为了横向比较与教学推演所构建的**分析性分析框架**，绝非艺术史既定通说或封闭教条；各范式在历史实践中存在显著的交叉、重叠与互相渗透。  
+> **执行流程偏差说明**：`PROCESS DEVIATION: Synchronous main-agent execution without background agent`  
+> （本次研究由主 Agent 直接执行深度检索、一手文献比对与结构化整合，未启用后台并行子智能体，执行过程全程同步留痕）。  
+> **证据等级与来源分级体系**：  
+> - `[PRIMARY TEXT]`：艺术家本人撰写的原始文本、自述、宣言、出版物、原始记谱卡片（Score）；  
+> - `[FIRST-PARTY ARCHIVE]`：公立博物馆、基金会与档案馆的一手馆藏记录、官方藏品编目与展览文献；  
+> - `[SECONDARY SCHOLARSHIP]`：后继学者、批评家撰写的学术专著、编著或展览图录评论（次级文献绝不冒充一手证据）；  
+> - `[DESIGN HYPOTHESIS / OPEN]`：针对教学情境的假设性推断，属于开放性学术推演，非历史事实；  
+> - `[POSSIBLE DESIGN IMPLICATION — NOT ADOPTED]`：基于艺术机制对本课程潜在转译方向的推断，严格界定为未被课程大纲采纳的备选思路，绝不冒充官方已批准教学规则；  
 > - 本文件不修改 `docs/current-course-baseline.md`，不设计最终课堂教案，不挑选最终采用艺术家。
 
 ---
@@ -23,22 +30,23 @@
    - 2.8 [Collaboration & Participatory Relations (多主体协作与关系互动)](#28-collaboration--participatory-relations-多主体协作与关系互动)
    - 2.9 [Site & Spatial Intervention (场域切割与空间阻抗介入)](#29-site--spatial-intervention-场域切割与空间阻抗介入)
 3. [九大范式横向对比与特征矩阵 (Comparative Matrix)](#3-九大范式横向对比与特征矩阵)
-4. [课程映射综合推断与阶段适配分析 (Curriculum Mapping Analysis)](#4-课程映射综合推断与阶段适配分析)
+4. [课程映射综合推断与阶段适配分析 (Curriculum Mapping Analysis: Parts 1–3)](#4-课程映射综合推断与阶段适配分析)
 5. [一手档案与参考书目 (Primary Sources & Archival References)](#5-一手档案与参考书目)
 
 ---
 
 ## 1. 研究背景与方法论边界
 
-在艺术院校的工作室教学中，初学者常常陷入“必须先构思一个完整的成品概念，才能动手制作”的心理僵局；或者反过来，陷入漫无目的的材料摸索而沦为一盘散沙。
+在基础造型与立体创作的教学探索中，学生常遇到两种实践瓶颈：一是试图在动手前预先完整构思出成品形态，导致在图纸或意向图阶段徘徊停滞；二是在缺乏框架的自由摸索中陷入偶发材料拼凑，难以形成连贯深入的探究线索。
 
-本次调研的目标不是评选知名艺术家，而是从现当代艺术一手实践中解构出一套**可操作的行动机制图谱**：当一个外部规则被建立后，创作者如何在不需要先见成品的前提下直接进入行动？每种机制在认知、物质与空间层面究竟撬动了什么？
+本次调研旨在从现当代艺术的一手实践中，解构出一套**可分析的行动驱动机制**：当外部规则或行动命题确立后，创作者如何在不预设最终具体形态的前提下直接展开工作？每种机制在认知、物质、时间与空间维度究竟产生了何种结构性影响？
 
 ### 调研纪律与边界
-1. **优先高可信一手来源**：依赖艺术家自述、宣言、出版物、手稿，以及 MoMA、Tate、Centre Pompidou、CCA 等博物馆的馆藏档案；
-2. **Yoko Ono 仅作为已知样本**：不把《Grapefruit》扩写为研究中心，将其置于更宽广的指令脉络中审视；
-3. **严格区分客观史实与课程推断**：对历史事实记录其原始运作；对本课程 Part 1–3 的教学关联单独列为推断；
-4. **禁止提前冻结**：不编写具体教案，不改写已有 Baseline。
+1. **严格证据溯源与分级**：所有艺术案例优先回到艺术家原始文本（`[PRIMARY TEXT]`）及博物馆一手藏品编目（`[FIRST-PARTY ARCHIVE]`），二手学者文献（`[SECONDARY SCHOLARSHIP]`）明确标识；
+2. **Yoko Ono 仅作为已知样本**：不把《Grapefruit》扩写为研究中心，严格将其置于事件记谱与指令艺术的整体脉络中；
+3. **严格区分客观机制与教学假说**：客观陈述艺术机制本身的运转逻辑；针对本课程教学的关联分析明确标为 `[DESIGN HYPOTHESIS / OPEN]` 与 `[POSSIBLE DESIGN IMPLICATION — NOT ADOPTED]`；
+4. **禁止提前冻结**：不编写执行教案，不引入未决的代工或材料禁令，不改写已有 Baseline；
+5. **课程映射范围**：正式映射分析严格聚焦于课程核心探索阶段（Part 1 / Part 2 / Part 3），Part 4 仅作为后续可能相关项做简要标注。
 
 ---
 
@@ -46,443 +54,459 @@
 
 ### 2.1 Instruction-based Practice (指令式实践 / 事件记谱)
 
-#### 1. Paradigm / 机制名称
+#### 1. Paradigm / 机制名称 `[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`
 **指令式实践（Instruction-based Practice）/ 事件记谱法（Event Score）**
 
 #### 2. 核心规则是什么
-将艺术创作的“构思”与“执行”分离为文本乐谱与物理行动。规则通常由极简的文本指令构成（1–3 句话），限定一个日常或异质的行为框架，将具体的时间、环境、物质选择与执行细节完全开放给执行者。
+将作品的“构想设定”与“物理实现”解耦。规则通常由极短的文本指令构成（1–3 句话），设定一个清晰的行动命题或情境框架，将具体的物理媒介、环境尺度与执行细节开放给操作者或参与者。
 
-#### 3. 代表性一手案例 `[PRIMARY SOURCE]`
-*   **George Brecht (乔治·布雷希特)**: 《Water Yam》(水山药), 1963 年出版（George Maciunas 设计制作的 Fluxbox 档案，收录 1959–1963 年间创作的卡片事件记谱）。
-    *   *馆藏档案*：The Museum of Modern Art (MoMA), New York, The Gilbert and Lila Silverman Fluxus Collection Gift, Acc. No. 2289.2008.
-    *   *原始卡片文本样例*：
-        *   `Drip Music (Drip Event)` (1959): "A source of water on an elevated position. A vessel on the floor. Falling drops." (水源置于高处。器皿置于地面。水滴下落。)
-        *   `Three Aqueous Events` (1961): "ice / water / steam" (冰 / 水 / 汽)
-*   **Yoko Ono (小野洋子)**: 《Grapefruit: A Book of Works and Drawings》(葡萄柚), 1964 年东京初版（Wunternaum Press）。
-    *   *一手文本样例*：
-        *   `Painting to be Stepped On` (可踩踏的画, 1960 冬): "Leave a piece of canvas or finished painting on the ground or in the street." (将一块画布或画好的画放在地上或街上。)
-        *   `Mend Piece` (修补碎片, 1966): "Mend with wisdom / mend with care. / It will mend the earth / at the same time." (用智慧修补 / 用细心修补。/ 它会同时 / 修补地球。)
+#### 3. 代表性一手案例与馆藏档案
+*   **George Brecht (乔治·布雷希特)**: 《Water Yam》(水山药), 1963 年。
+    *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：The Museum of Modern Art (MoMA), New York. The Gilbert and Lila Silverman Fluxus Collection Gift, Object Number: `1988.2008.1-70` ([MoMA Collection Record 126322](https://www.moma.org/collection/works/126322)).
+    *   *出版与文本属性 `[PRIMARY TEXT]`*：George Maciunas 设计制作的 Fluxbox 纸盒，内装 69 张平版印刷记谱卡片（收录 1959–1963 年间卡片事件作品）。
+    *   *原始卡片文本样例 `[PRIMARY TEXT]`*：
+        *   `Drip Music (Drip Event)` (1959): "A source of water on an elevated position. A vessel on the floor. Falling drops."
+        *   `Three Aqueous Events` (1961): "ice / water / steam"
+*   **Yoko Ono (小野洋子)**: 《Grapefruit: A Book of Works and Drawings》(葡萄柚), 1964 年初版。
+    *   *出版档案 `[PRIMARY TEXT]`*：Tokyo: Wunternaum Press, 1964（艺术家自费限量印刷 500 册初版）。
+    *   *一手文本样例 `[PRIMARY TEXT]`*：
+        *   `Painting to be Stepped On` (可踩踏的画, 1960 冬): "Leave a piece of canvas or finished painting on the ground or in the street."
+        *   `Map Piece` (地图作品, 1962 夏): "Draw an imaginary map. Put a goal mark on the map where you want to go. Go walking on an actual street according to the map..."
+    *   *注记*：小野洋子著名的《Mend Piece》(修补作品) 首次出现于 1966 年 7 月伦敦 Indica Gallery 的个人展演中，未收录于 1964 年东京初版《Grapefruit》，特此核实分离。
 
 #### 4. 参与者实际上被要求做什么
-参与者阅读卡片上的行动命题，不需面对“空白画布或雕塑泥”，而是直接遵循字面动作去寻找物理媒介（如寻找盛水器皿、将布铺在必经通道上、拼合破碎的陶片）。动作通常具有清晰的起始动作，但结果是不可预测的连续事件。
+参与者阅读卡片上的行动命题，直接遵循字面动作去调度身边的物理材料与环境（如将布匹平铺于必经通道、注视容器中水滴的节奏）。行动具有清晰的触发点，但具体的材料反应与时间展开呈现出非固定性。
 
 #### 5. 改变的维度
-*   **核心改变**：**感知与行动**（Perception & Action）。
-*   **具体表现**：将注意力从“造型结果”转移到“事件的发生与感官注视”上。它打破了对技巧熟练度的恐惧，直接建立身体动作与日常物体的初始联系。
+*   **核心改变**：**感知聚焦点与行动启动阈值**（Perception & Action Threshold）。
+*   **具体表现**：将注意力从预设形体的“雕刻结果”转移到“事件的物理发生过程”上。通过降低先验造型技巧的心理门槛，直接促成身体与材料的初始互动。
 
-#### 6. 与课程阶段的潜在关联 `[RESEARCHER INFERENCE]`
-*   **关联阶段**：**Part 1「原点」 (W1)**。
-*   **推断理由**：大一新生刚进入工作室时往往带着艺考预设的造型习惯。极简的指令卡片（如“将材料置于地上，闭眼感知重量”、“只用单手撕裂直到无法继续”）能够阻断学生过早构思“好看形体”的焦虑，迅速让身体进入无防御的感知状态，产出真实的《感知记录》。
+#### 6. 课程教学推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **适配阶段**：**Part 1「原点」 (W1)**。
+*   **假说推断理由**：若学生在第一周表现出对成品造型的过早焦虑，极简的文本行动卡（例如“将提供的软性材料置于地面，仅依靠手指撕裂至无法继续”）可作为一种备选测试手段，促使学生将注意力集中在材料撕裂阻抗与物理触感上，有助于形成直接的《感知记录》一手素材。
 
 #### 7. 局限性与风险
-*   **概念空转风险**：若指令过于文学化或象征化，学生容易滑向“机智的观念文字游戏”，而忽视了物质层面的深度触碰与手工抵抗；
-*   **虚无化体验**：缺乏约束的极度开放可能导致学生产生“这太简单了，什么都不是”的浅尝辄止感。
+*   **概念空转倾向**：若指令过于文学化或象征化，易导向单纯的文字修辞游戏，脱离手工阻力与实体空间；
+*   **体验碎片化**：若缺乏持续深化的物质承载，容易被浅层理解为一次性的破冰小品。
 
 ---
 
 ### 2.2 Rule-based Generative Practice (规则生成式实践 / 算法推演)
 
-#### 1. Paradigm / 机制名称
+#### 1. Paradigm / 机制名称 `[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`
 **规则生成式实践（Rule-based Generative Practice）/ 算法推演系统（Algorithmic System）**
 
 #### 2. 核心规则是什么
-通过预设一套无歧义的逻辑、几何或数学运算规则（算法），规则一旦确立，执行过程即遵循该逻辑自律展开，排斥任何中途基于主观“好看与否”的灵感修改。
+预先制定一套明确无歧义的逻辑、几何或数学运算规则。规则一旦设定，后续的推演与成型过程即严格遵循该算法展开，排斥中途凭主观喜好进行无理由干预。
 
-#### 3. 代表性一手案例 `[PRIMARY SOURCE]`
+#### 3. 代表性一手案例与馆藏档案
 *   **Sol LeWitt (索尔·勒维特)**:
-    *   *文献宣言*：《Paragraphs on Conceptual Art》(观念艺术段落), *Artforum* Vol. 5, No. 10, Summer 1967, pp. 79–83：“In conceptual art the idea or concept is the most important aspect of the work... The execution is a perfunctory affair.”
-    *   *一手墙画指令作品*：`Wall Drawing #118` (1971 年 12 月首次执行于 School of the Museum of Fine Arts, Boston)。
-        *   *官方指令原文*：“On a wall surface, any continuous stretch of wall, using a hard pencil, place fifty points at random. The points should be evenly distributed over the area of the wall. All of the points should be connected by straight lines.” (在任意连续墙面上，使用硬质铅笔，随机点上50个点。点应均匀分布在墙面区域。将所有的点用直线两两连接。)
-        *   *档案来源*：Sol LeWitt Wall Drawings Catalogue Raisonné; MASS MoCA Retrospective Collection.
-    *   *实体变体推演*：《Incomplete Open Cubes》(不完整的开方体), 1974 年。
-        *   *规则体系*：从一个立方体的 12 条边出发，穷尽推演由 3 条到 11 条边构成的所有空间连接可能性，剔除旋转对称重合后，得出精准的 122 个实体变体。
-        *   *馆藏档案*：San Francisco Museum of Modern Art (SFMOMA), Acc. No. 88.426.1-122.
+    *   *文献宣言 `[PRIMARY TEXT]`*：《Paragraphs on Conceptual Art》(观念艺术段落), *Artforum*, Vol. 5, No. 10, Summer 1967, pp. 79–83：“In conceptual art the idea or concept is the most important aspect of the work... The execution is a perfunctory affair.”
+    *   *墙画指令案例 `[FIRST-PARTY ARCHIVE]`*：`Wall Drawing #118` (1971 年 12 月首次执行于波士顿美术馆学校). Sol LeWitt Wall Drawings Catalogue Raisonné No. `WD 118` (Artifex Press / Yale University Art Gallery).
+        *   *官方指令原文 `[PRIMARY TEXT]`*：“On a wall surface, any continuous stretch of wall, using a hard pencil, place fifty points at random. The points should be evenly distributed over the area of the wall. All of the points should be connected by straight lines.”
+    *   *实体变体推演 `[FIRST-PARTY ARCHIVE]`*：《Incomplete Open Cubes》(不完整的开方体), 1974 年。
+        *   *馆藏档案*：San Francisco Museum of Modern Art (SFMOMA), Accession Number: `97.516.A-KKKKKKKKKK` ([SFMOMA Collection Record](https://www.sfmoma.org/artwork/97.516.A-KKKKKKKKKK/)).
+        *   *规则体系 `[PRIMARY TEXT]`*：基于正方体的 12 条棱边，穷尽推演由 3 至 11 条棱边构成的所有空间连接可能性，剔除旋转同构后，得出 122 个实体结构变体。
 
 #### 4. 参与者实际上被要求做什么
-参与者扮演“执行者/计算器”角色。在《Wall Drawing #118》中，执行者必须用尺和铅笔执行组合数学运算（50个点之间连接 $\frac{50 \times 49}{2} = 1225$ 条直线）；在《Incomplete Open Cubes》中，参与者根据拓扑逻辑拼装木条，无需考虑“哪种形态更好看”，而是穷尽每一种可能的几何状态。
+参与者扮演系统执行者的角色。在二维平面上根据组合规则连线（50 点两两相连产生 $\frac{50 \times 49}{2} = 1225$ 条直线）；在三维空间中依据拓扑排布组装结构单体，不依赖即兴灵感，而是完成逻辑系统的完整遍历。
 
 #### 5. 改变的维度
-*   **核心改变**：**形式生成与逻辑秩序**（Morphogenesis & Rational Order）。
-*   **具体表现**：形式不再诞生于创作者的“天才灵感”，而是系统演化出的必然涌现（Emergence）。极其复杂的视觉结构直接源自极其简单的底层几何规则。
+*   **核心改变**：**形式生成逻辑与秩序建构**（Morphogenesis & Rational Order）。
+*   **具体表现**：形式不再由单一审美判断偶然决定，而是系统规则演进的必然涌现（Emergence），使复杂结构具备自洽的内在语法。
 
-#### 6. 与课程阶段的潜在关联 `[RESEARCHER INFERENCE]`
-*   **关联阶段**：**Part 3「1 → N」 (W4–6)**。
-*   **推断理由**：Part 3 的核心任务是避免学生过早收敛为单件雕塑成品，要求围绕单一问题产生多个可比较的实体变体。勒维特的系统性穷尽推演法则，可以直接为学生提供“如何控制变量、如何推导变体矩阵（Small Multiples）”的方法学支撑。
+#### 6. 课程教学推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **适配阶段**：**Part 3「1 → N」 (W4–6)**。
+*   **假说推断理由**：Part 3 的核心诉求是避免过早收敛为单件成品，需要围绕同一问题产生多个可比较的实体变体。勒维特的变量遍历逻辑，能为学生提供一种严谨控制自变量与因变量的研究路径，有助于建立清晰的变体谱系。
 
 #### 7. 局限性与风险
-*   **机械冰冷感**：学生容易把规则推演降级为枯燥的数学做题，剥离了材料物性与身体感受；
-*   **技术官僚化**：过分沉迷于图纸上的严密逻辑，导致实体模型的材料选择与构造节点缺乏表现力。
+*   **机械算术化**：若缺乏材料本身的物理介入，推演易退化为纯纸面的图纸游戏；
+*   **物性缺失**：过度关注抽象几何关系，可能忽略构造节点在真实重力与加工中的应力特征。
 
 ---
 
 ### 2.3 Constraint-based Action (动作规约与物理限制实践)
 
-#### 1. Paradigm / 机制名称
+#### 1. Paradigm / 机制名称 `[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`
 **动作规约式实践（Constraint-based Action）/ 动词限制系统（Verb Constraint System）**
 
 #### 2. 核心规则是什么
-剥离所有关于“名词（对象/意象）”的预想，将创作者的自由度压缩到几个具体的**物理动作动词**上；或者通过对**身体姿态与时间**的极端苛刻限制，激发身体与重力/环境的瞬时张力。
+排除具象图像或特定名词的预设意图，将创作者的操作严格限制于少数特定的**及物动词（物理动作）**；或者对身体的姿态、位置与持续时间施加硬性生理约束，使身体与外部环境的力学关系显性化。
 
-#### 3. 代表性一手案例 `[PRIMARY SOURCE]`
-*   **Richard Serra (理查德·塞拉)**: 《Verb List Compilation: Actions to Relate to Oneself》(动词清单汇编：与自身相关的动作), 1967–1968 年。
-    *   *材质与形式*：两页纸上的手写铅笔清单，包含 84 个及物动词（如 to roll, to crease, to fold, to bend, to shorten, to twist, to splash, to tear, to shave, to scatter）与 24 个关系所有格（of gravity, of entropy, of nature, of grouping）。
-    *   *馆藏档案*：The Museum of Modern Art (MoMA), New York, Gift of the artist in honor of Wynn Kramarsky, Acc. No. 280.2011.1-2.
-    *   *关联实体作品*：《To Lift》(提起, 1967, 硫化橡胶板通过单一“抓起并立于重力中”动作成型), MoMA 馆藏。
+#### 3. 代表性一手案例与馆藏档案
+*   **Richard Serra (理查德·塞拉)**: 《Verb List》(动词清单), 1967–1968 年。
+    *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：The Museum of Modern Art (MoMA), New York. Gift of the artist in honor of Wynn Kramarsky, Object Number: `843.2011.a-b` ([MoMA Collection Record 152793](https://www.moma.org/collection/works/152793)).
+    *   *一手文本属性 `[PRIMARY TEXT]`*：两页纸上的手写铅笔清单，列出 84 个及物动词（如 to roll, to crease, to fold, to bend, to shorten, to twist, to splash, to tear）与 24 个关系范畴（of gravity, of entropy, of nature）。首次公开发表于 *Avalanche*, No. 2, Winter 1971.
+    *   *关联实体作品 `[FIRST-PARTY ARCHIVE]`*：《To Lift》(提起), 1967 年（硫化橡胶板通过单一抓起立于重力中的动作成型），MoMA Object Number: `458.2007` ([MoMA Collection Record 101902](https://www.moma.org/collection/works/101902)).
 *   **Erwin Wurm (埃尔温·沃姆)**: 《One Minute Sculptures》(一分钟雕塑), 1997 年至今。
-    *   *规则形式*：教师/艺术家在展台上放置日常用品（马克笔、扫帚、椅子、塑料桶），附带一张图文动作指示卡，要求参与者借助该物品摆出一个违反日常身体平衡的姿势，并**绝对静止保持 60 秒**。
-    *   *馆藏档案*：Tate Modern (London), Collection Prints and Drawings; Centre Pompidou (Paris), Musée national d’art moderne, AM 2001-83.
+    *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：Centre Pompidou, Musée national d'art moderne (Paris), Inventaire: `AM 2001-133` (Video: *One Minute Sculptures*, 1997–1998, 60 min, [Pompidou Record](https://www.centrepompidou.fr/en/ressources/oeuvre/cRbg8a)); Tate Modern (London), Collection Prints and Drawings.
+    *   *规则形式 `[PRIMARY TEXT]`*：利用日常生活器具（如扫帚、水桶、椅子），配合图文指令要求身体保持反常态的物理姿势，并在重力制约下严格维持静止 60 秒。
 
 #### 4. 参与者实际上被要求做什么
-*   在塞拉模式下，学生挑选一个动词（例如“to fold 折叠”或“to roll 卷”），拿取手边的铁皮、橡胶或泥板，**只执行这一个动作**，直到材料自身对抗身体并达到受力平衡；
-*   在沃姆模式下，参与者必须把头塞进塑料桶里或用额头顶住扫帚把手保持 60 秒，在颤抖的肌肉记忆中体会身体如何成为受重力支配的物理雕塑。
+*   在塞拉模式下，执行者选取单一及物动词（如“折叠”或“卷曲”），反复施加于铅皮、橡胶或泥板等均质材料，直至材料由于自身物理刚度与重力达到静力学平衡；
+*   在沃姆模式下，参与者必须以身体作为受力构件，在 60 秒的倒计时中对抗肌肉疲劳与重心偏移，体验重力在身体各节点上的物理分布。
 
 #### 5. 改变的维度
-*   **核心改变**：**行动与材料阻力**（Action & Material Resistance）。
-*   **具体表现**：彻底取缔了“构思形象 $\to$ 雕刻形象”的传统路径，作品的形态就是“动词施加在物质上的残留痕迹”；身体不再是审视者，而是作为受力构件直接参与平衡。
+*   **核心改变**：**动作痕迹与材料阻抗**（Action Traces & Material Resistance）。
+*   **具体表现**：形式成为动作施加于物理材料后留下的直接平衡残留；身体从审美的评判者转化为受重力直接支配的力学结构部件。
 
-#### 6. 与课程阶段的潜在关联 `[RESEARCHER INFERENCE]`
-*   **关联阶段**：**Part 1「原点」 (W1) 与 Part 2「0 → 1」 (W2–3)**。
-*   **推断理由**：
-    *   在 Part 1，单一动词可以作为极其干净的破冰工具（如“只能卷”、“只能撕”），杜绝艺考塑造惯性；
-    *   在 Part 2，身体在 60 秒限制中的受阻、不舒服或失衡体验，恰恰是提炼“造物问题意识（身体尺度与空间占位）”的直接感官发生现场。
+#### 6. 课程教学推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **适配阶段**：**Part 1「原点」 (W1) 与 Part 2「0 → 1」 (W2–3)**。
+*   **假说推断理由**：
+    *   在 Part 1，单一动词规约（如“仅允许单一方向折叠”）有助于阻断熟练手势的惯性重复；
+    *   在 Part 2，身体在时间与空间约束下的受力不适感，可作为挖掘身体尺度与日常环境矛盾的潜在感官入口。
 
 #### 7. 局限性与风险
-*   **快餐化/滑稽化倾向**：沃姆式的动作易被学生理解为社交媒体式的打卡恶搞，缺乏对重力、重量与时间延展的深层反思；
-*   **形式单调**：塞拉式的单一动词若缺乏后续迭代规则，容易停留在简单的材料破坏，无法进入复杂的空间组织。
+*   **表层戏谑化**：短时身体摆拍若缺乏对受力状态的持续反思，容易滑向快照式的行为游戏；
+*   **单调与形式停滞**：单一动词若不引入迭代变量，可能停留在初始的材料加工破坏阶段，难以展开空间组织。
 
 ---
 
 ### 2.4 Chance & Indeterminacy (机缘与不确定性实践)
 
-#### 1. Paradigm / 机制名称
+#### 1. Paradigm / 机制名称 `[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`
 **机缘与不确定性实践（Chance & Indeterminacy）/ 偶发测量法则（Aleatory Metrics）**
 
 #### 2. 核心规则是什么
-放弃创作者对形态最终结果的控制权，建立一个由自然物理定律（如重力自由落体、风力流动、液体扩散）或随机生成器（如掷骰子、随机数发生器）支配的实验程序，并将偶发结果固化为新的度量基准或形式结构。
+主动让渡创作者对终态细节的绝对控制，设定由自然物理定律（重力坠落、液体流变）或随机机制主导的实验条件，并将偶发碰撞或自然流动的痕迹固化为可被进一步使用的基准或尺度系统。
 
-#### 3. 代表性一手案例 `[PRIMARY SOURCE]`
+#### 3. 代表性一手案例与馆藏档案
 *   **Marcel Duchamp (马塞尔·杜尚)**: 《3 Stoppages Étalon》(3 个标准终止 / 3 个尺规原型), 1913–1914 年。
-    *   *核心实验程序*：杜尚从 1 米高处平举三根长 1 米的白线，让它们在重力作用下自然下落到水平放置并涂满普鲁士蓝颜料的画布上。线在下落中随机卷曲；杜尚用清漆固定其着陆形态，随后沿着每条卷曲的线切出三块木质尺规（slats），将偶然线形固化为“具有新度量效力的尺子”，装入槌球木盒中。
-    *   *一手文献记录*：Marcel Duchamp, 《The Green Box》(绿盒笔记, 1934): "The Idea of the Fabrication: If a horizontal thread one meter long falls from a height of one meter onto a horizontal plane distorting itself as it pleases..."
-    *   *馆藏档案*：The Museum of Modern Art (MoMA), New York, Katherine S. Dreier Bequest, Acc. No. 70.1953.a-i.
-*   **Hans Arp (汉斯·阿尔普)**: 《Untitled (Collage with Squares Arranged According to the Laws of Chance)》(根据偶然规律排列的正方形拼贴), 1916–1917 年。
-    *   *核心程序*：撕碎彩色纸片，任其从空中散落到背景纸上，按照纸片自然静止的位置将其直接粘贴固定。
-    *   *馆藏档案*：The Museum of Modern Art (MoMA), New York, Purchase, Acc. No. 250.1937.
+    *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：The Museum of Modern Art (MoMA), New York. Katherine S. Dreier Bequest, Object Number: `149.1953.a-i` ([MoMA Collection Record 78990](https://www.moma.org/collection/works/78990)).
+    *   *实验程序 `[PRIMARY TEXT]`*：杜尚《绿盒笔记》(The Green Box, 1934) 记录：“从 1 米高处平放 1 米长的细线，任其在重力作用下自然下落到涂满颜料的画布上，形成扭曲形态；沿其自然轮廓裁切 3 根木质尺规”，将偶然曲线制度化为度量工具。
+*   **Jean (Hans) Arp (汉斯·阿尔普)**: 《Untitled (Collage with Squares Arranged according to the Law of Chance)》(根据偶然规律排列的正方形拼贴), 1916–1917 年。
+    *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：The Museum of Modern Art (MoMA), New York. Purchase, Object Number: `457.1937` ([MoMA Collection Record 37013](https://www.moma.org/collection/works/37013)).
+    *   *制作程序 `[PRIMARY TEXT]`*：撕碎色纸片，自高处任其散落于底板上，根据其受空气阻力与重力作用下的自然降落停滞位置进行原位贴合。
 
 #### 4. 参与者实际上被要求做什么
-参与者设计实验条件（下落高度、表面介质、触发时机），然后**松开双手**。参与者的职责转变为：敏锐地观察并忠实记录物理现实在偶发碰撞中呈现的形态，绝不用主观意识“纠正”下落的位置。
+参与者负责搭建实验初始边界（下落高度、介质阻力、底板粘性），并在动作触发瞬间放开双手。参与者的职责是忠实观察物理事件的偶发沉降，抑制中途伸手干预调整的冲动。
 
 #### 5. 改变的维度
-*   **核心改变**：**感知与权威让渡**（Perception & Surrender of Authorship）。
-*   **具体表现**：颠覆了传统以人为中心的造物权力，让重力、空气流动与物质自发性主导形态的成型，将偶然性制度化为可研究的样本。
+*   **核心改变**：**作者权让渡与度量标尺的非标准化重构**（Surrender of Authorship & Non-Standard Metrics）。
+*   **具体表现**：重力与介质阻抗接管了造物决策，偶然性不仅作为视觉特征，更被提炼为后续系统工作的基准刻度。
 
-#### 6. 与课程阶段的潜在关联 `[RESEARCHER INFERENCE]`
-*   **关联阶段**：**Part 1「原点」 (W1) 与 Part 3「1 → N」 (W4–6)**。
-*   **推断理由**：
-    *   在 Part 1，通过自然落体实验（如自由丢掷湿泥块、散落碎木）可以帮助学生彻底放下“控制欲”，观察物质撞击地面的自然反作用力；
-    *   在 Part 3，杜尚将偶然曲线制成新“尺子”的方法，能够极大启发学生：偶发实验产生的失败或变形，可以反过来被确立为下一轮推演的“新模数与新度量标准”。
+#### 6. 课程教学推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **适配阶段**：**Part 1「原点」 (W1) 与 Part 3「1 → N」 (W4–6)**。
+*   **假说推断理由**：
+    *   在 Part 1，自然重力撞击实验有助于促使学生观察材料在无控制下的物理自发性；
+    *   在 Part 3，将偶发实验中沉淀出的意外形变固化为后续变体制作的“新标尺”，可作为一种启发学生处理工艺容差的方法参考。
 
 #### 7. 局限性与风险
-*   **伪随机与摆拍**：初学者常因潜意识审美诱惑，偷偷用手去摆弄纸片或线条，破坏偶然机制的纯粹性；
-*   **责任逃避**：将一切不合理的粗糙归咎于“这是偶然发生的”，缺乏对实验初始条件设定的理性反思。
+*   **伪随机性操作**：初学者易在无意识中根据主观视觉美丑进行人为微调，破坏偶发实验的纯粹性；
+*   **免责借口**：将粗糙与缺乏规划归因于“纯属偶然”，忽略了对初始物理边界设定的理性控制。
 
 ---
 
 ### 2.5 Repetition & Iterative Variation (重复迭代与有机微变实践)
 
-#### 1. Paradigm / 机制名称
+#### 1. Paradigm / 机制名称 `[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`
 **重复迭代与有机微变实践（Repetition & Iterative Variation）/ 序列化生产（Seriality with Organic Difference）**
 
 #### 2. 核心规则是什么
-制定一个极其严苛的单一制作工序（单一体素、单一模具或手工重复劳动），在大量重复执行相同动作的过程中，不刻意追求机械的一模一样，而是允许并捕捉由于材料受力、手工疲劳或固化收缩带来的“渐进微小差异（Micro-variations）”。
+确立一道高度统一的制作工艺或单一体素单元，在长周期、高密度的重复劳动中，不依赖机械模具的绝对冰冷复制，而是容纳由于材料固化收缩、自重下垂及手工疲劳带来的渐进微小容差（Micro-variations）。
 
-#### 3. 代表性一手案例 `[PRIMARY SOURCE]`
+#### 3. 代表性一手案例与馆藏档案
 *   **Eva Hesse (伊娃·海瑟)**:
-    *   *核心作品*：《Repetition Nineteen III》(重复十九号之三), 1968 年。
-        *   *制作程序*：手工浇铸并成型 19 个尺寸相仿的无底桶状圆柱体（玻璃纤维与聚酯树脂材料）。尽管初始模具规则相同，但由于树脂手工涂覆厚度、固化重力下垂与边缘脱模的差异，19 个单体在高度、倾斜度、透光度与褶皱上各不相同；海瑟明确要求它们在地面上呈非网格式的自然散落排列。
-        *   *馆藏档案*：The Museum of Modern Art (MoMA), New York, Gift of Charles and Anita Blatt, Acc. No. 279.1969.a-s.
-    *   *对照作品*：《Accession II》(就位二号), 1967–1968 年（金属穿孔网板立方体，内部纯手工穿引上万根细塑料管）。
-        *   *馆藏档案*：Detroit Institute of Arts (DIA), Founders Society Purchase, Acc. No. 79.34.
+    *   *核心作品 `[FIRST-PARTY ARCHIVE]`*：《Repetition Nineteen III》(重复十九号之三), 1968 年。
+        *   *馆藏档案*：The Museum of Modern Art (MoMA), New York. Gift of Charles and Anita Blatt, Object Number: `1004.1969.a-s` ([MoMA Collection Record 81930](https://www.moma.org/collection/works/81930)).
+        *   *材料工艺与程序 `[PRIMARY TEXT]`*：19 件玻璃纤维与聚酯树脂手工浇铸而成的筒状单体。尽管模具初始规格相近，但因树脂涂抹厚度差异与固化重力拉扯，各单体在边缘褶皱与倾角上产生有机分化；艺术家明确要求在展场地面呈非均质散布。
+    *   *对照作品 `[FIRST-PARTY ARCHIVE]`*：《Accession II》(就位二号), 1967–1968 年。
+        *   *馆藏档案*：Detroit Institute of Arts (DIA), Founders Society Purchase, Acc. No. `79.34` ([DIA Collection Record](https://dia.org/collection/accession-ii-58963)). 穿孔钢板立方体内手工穿引上万根聚氯乙烯细管。
 
 #### 4. 参与者实际上被要求做什么
-参与者必须日复一日执行极其单调的物理劳动（例如重复揉捏 50 个相同体积的泥球、折叠 100 张相同比例的铝箔、打磨 30 个木质插销）。参与者被要求保持操作意志的均一性，同时用眼睛记录每一件单体在固化过程中的微妙偏差。
+参与者保持操作工序的一致性，重复完成相同体素或构造动作（例如连续浇铸多个同规格模块、打磨一组标准木构件）。操作者在体力劳动中观察每一单体在成型固化过程中的微妙偏差，并系统记录这些物理容差。
 
 #### 5. 改变的维度
-*   **核心改变**：**时间耐力与材料容差**（Duration, Repetition & Material Tolerance）。
-*   **具体表现**：瓦解了工业极简主义的冷漠机械性，让肉身的劳动时间与物质的内在弹性注入几何序列之中，使“复数”成为充满生命的聚落。
+*   **核心改变**：**时间延展性与材料容差沉淀**（Duration & Material Tolerance）。
+*   **具体表现**：消除冷峻的工业标准化复制感，将身体的劳动时间与材料受力弹性凝聚于群体聚落中，使“复数变体”显现出内在差异。
 
-#### 6. 与课程阶段的潜在关联 `[RESEARCHER INFERENCE]`
-*   **关联阶段**：**Part 3「1 → N」 (W4–6)**。
-*   **推断理由**：Part 3 最忌讳学生做几个完全不搭界的草模。海瑟的序列重复范式证明了：不需要设计 20 种不同的怪异造型；只要守住同一个基本单体，通过连续的手工迭代与材料变量微调，就能形成极具张力且可深度横向比较的变体矩阵。
+#### 6. 课程教学推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **适配阶段**：**Part 3「1 → N」 (W4–6)**。
+*   **假说推断理由**：Part 3 强调围绕单一问题深化变体矩阵。海瑟的序列重复机制表明，无需设计形态迥异的怪诞方案，通过锚定基础单体并跟踪手工迭代中的变量扰动，同样能够建立结构紧凑且具丰富对比度的实体序列。
 
 #### 7. 局限性与风险
-*   **工匠式麻木**：单纯的体力消耗可能让学生失去思考焦点，沦为无意识的流水线工人；
-*   **时间超载**：海瑟式的超大体量重复在有限学时（小班每周面授）内极易造成制作时间挤压，必须严格限定单体尺度与数量上限。
+*   **操作麻木**：单纯体力劳动若缺乏节点层面的反思，容易转变为流水线式的机械重复；
+*   **学时负荷**：密集的大量手工制作容易在有限教学周内挤占研讨与调试时间，必须对变体数量与体量设定合理上限。
 
 ---
 
 ### 2.6 Bodily Action & Somatic-Haptic (身体行动与触觉感知重置)
 
-#### 1. Paradigm / 机制名称
+#### 1. Paradigm / 机制名称 `[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`
 **身体行动与触觉感知重置（Bodily Action & Somatic-Haptic Practice）/ 具身命题（Embodied Proposition）**
 
 #### 2. 核心规则是什么
-剥夺常规视觉优势（如蒙眼、遮光）或迫使身体通过特定媒介介入真实物理行为；作品不是用来“看”的视觉客体，而是用来“做”的身体命题。艺术体验只存在于行动发生的当下。
+剥夺或抑制常态的视觉主导地位（如蒙眼、感官遮断），促使身体通过非视觉感官介入物理媒介；作品不再是独立的视觉客体，而是作为促发具身体验的感知命题。
 
-#### 3. 代表性一手案例 `[PRIMARY SOURCE]`
+#### 3. 代表性一手案例与馆藏档案
 *   **Lygia Clark (莱吉亚·克拉克)**:
-    *   *核心作品 1*：《Caminhando》(行走), 1963 年。
-        *   *一手命题原文*：取一条普通纸带，将其一端旋转 180 度后粘接成**莫比乌斯环（Möbius strip）**。参与者手持剪刀，沿着纸带长轴纵向连续剪切。随着剪切推进，纸带不断变窄变长；当剪刀遇到上一次剪切的分叉点时，参与者必须自主抉择向左还是向右剪进。直到纸带过细断裂为止。克拉克宣言：“In Caminhando, there is only one type of duration: the act. The work is your act alone.” (在《行走》中，只有一种时间：行动。作品唯由你的行动构成。)
-        *   *档案记录*：Associação Cultural Lygia Clark, Rio de Janeiro; Tate Modern Collection Research.
-    *   *核心作品 2*：《Máscaras Sensoriais》(感官面罩), 1967 年。
-        *   *配置*：缝合不透明布料面罩，眼部缝入不同透光镜片，鼻腔处缝入樟脑、草本香料包，耳部缝合回音海螺。参与者戴上面罩，视觉被重组，嗅觉与听觉被放大，在触碰材料时重塑空间感知。
-        *   *馆藏档案*：The Museum of Modern Art (MoMA), New York; Pinacoteca de São Paulo.
+    *   *核心作品 1 `[FIRST-PARTY ARCHIVE]`*：《Caminhando》(行走), 1963 年。
+        *   *一手文本 `[PRIMARY TEXT]`*：取纸带一端旋转 180 度粘结为莫比乌斯环（Möbius strip）。参与者持剪刀沿长轴连续剪切，随着纸带变窄，在遇及剪切分叉时必须自主抉择路径，直至纸带断裂。克拉克自述：“In Caminhando, there is only one type of duration: the act. The work is your act alone.”
+        *   *档案来源*：Associação Cultural Lygia Clark (Rio de Janeiro); Tate Modern Research Database.
+    *   *核心作品 2 `[FIRST-PARTY ARCHIVE]`*：《Máscaras Sensoriais》(感官面罩), 1967 年。
+        *   *结构体系 `[PRIMARY TEXT]`*：缝制不透光布面罩，鼻腔植入香料袋，眼部嵌滤镜，耳部缝海螺。参与者佩戴面罩后视觉被过滤，强化触觉与听觉对外部物质的感知。
+        *   *馆藏档案*：Associação Cultural Lygia Clark; Pinacoteca de São Paulo.
 *   **Bruce Nauman (布鲁斯·诺曼)**: 《Walking in an Exaggerated Manner Around the Perimeter of a Square》(以夸张姿态沿正方形边缘行走), 1967–1968 年。
-    *   *核心动作*：在工作室地面用胶带贴出一个正方形，身体以极度缓慢、扭动臀部的方式严苛沿着正方形线条巡回行走，用固定摄像机记录身体在严密空间几何约束下的张力。
-    *   *馆藏档案*：The Museum of Modern Art (MoMA), New York, Acc. No. 128.2008.
+    *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：The Museum of Modern Art (MoMA), New York. Acquired through the generosity of Courtney Plummer, Object Number: `269.2008` ([MoMA Collection Record 117947](https://www.moma.org/collection/works/117947)).
+    *   *规则动作 `[PRIMARY TEXT]`*：在地面贴出几何正方形，以反常的慢速与夸张肢体动作沿线巡回，固定机位记录身体在严密空间几何管辖下的张力状态。
 
 #### 4. 参与者实际上被要求做什么
-参与者必须全身心投入一段具体的物理生理动作中。在克拉克那里，参与者在剪刀与纸带的分岔抉择中感知连续性与无限性；在感官面罩下，参与者必须完全依靠手掌触摸未知的泥土或废铁；在诺曼那里，学生的身体成为受空间几何管辖的张力摆。
+参与者全身心投入物理生理过程。在克拉克那里，参与者在剪刀阻力与空间分叉中体会动作的时间性；在感官遮蔽下，参与者纯粹依靠手掌与触觉感知泥土、石材或金属的肌理温度；在诺曼那里，身体被纳入精确的几何框架中运转。
 
 #### 5. 改变的维度
-*   **核心改变**：**身体感知与主体性转化**（Somatic Perception & Subjective Awakening）。
-*   **具体表现**：彻底颠覆了“造物者站在外部审视材料”的二元对立；造物者自身被物质与空间重构，触觉、重力与空间尺度取代了视网膜审美。
+*   **核心改变**：**具身体验重构与触觉感知优先**（Somatic Perception & Haptic Priority）。
+*   **具体表现**：消解以“视网膜形象”为主导的外在审视，建立基于肌肉负荷、触觉阻力与空间尺度的内部感知坐标。
 
-#### 6. 与课程阶段的潜在关联 `[RESEARCHER INFERENCE]`
-*   **关联阶段**：**Part 1「原点」 (W1) 与 Part 2「0 → 1」 (W2–3)**。
-*   **推断理由**：
-    *   Part 1 亟需“脱除预设造型惯性，直面未经分化的材料物性与身体感知”。克拉克式的蒙眼触碰或莫比乌斯环剪切，能在 15 分钟内彻底打碎学生画画的惯性；
-    *   Part 2 的核心是发现“身体与空间的摩擦”，诺曼式的情境介入可以直接让学生意识到身体在日常空间占位中的物理尺度与行为约束。
+#### 6. 课程教学推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **适配阶段**：**Part 1「原点」 (W1) 与 Part 2「0 → 1」 (W2–3)**。
+*   **假说推断理由**：
+    *   在 Part 1，非视觉的触碰感知练习可作为打破绘图定势、直接切入材料阻抗的辅助手段；
+    *   在 Part 2，身体在空间几何约束下的受阻感，能够帮助学生捕捉人与空间尺度的具身摩擦。
 
 #### 7. 局限性与风险
-*   **易流于心理疗愈表演**：若缺乏与造型实体的挂钩，克拉克式的体验易让学生陷入过于私人化的情绪宣泄，难以输出可评估的实体形态证据；
-*   **羞怯与抗拒阻力**：大一新生初次面对身体动作约束时，易产生尴尬或心理防线，需要清晰低门槛的物理任务作为缓冲。
+*   **情绪私人化**：若缺乏与造型实体的有效连接，易滑向封闭的私人情绪宣泄，难以沉淀为可被共同评估的物质证据；
+*   **心理阻抗**：部分学生初次面对肢体规约时可能产生羞怯或不适应，需要设定低心理门槛的动作任务。
 
 ---
 
 ### 2.7 Material-Responsive & Process Art (物性响应与反形式过程)
 
-#### 1. Paradigm / 机制名称
+#### 1. Paradigm / 机制名称 `[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`
 **物性响应与反形式过程（Material-Responsive & Process Art）/ 物派关系场（Mono-ha Relational Field）**
 
 #### 2. 核心规则是什么
-停止将材料强行加工成“雕塑家想要的形状”；反之，将权力交给材料的内生物理属性（重力悬垂、张力回弹、脆裂、流动自沉）。艺术家的工作是提供一个激发物性对抗的物理情境（挂载、泼溅、堆叠、重压），形态由材料在物理定律下的自我调节而生成。
+停止强制对材料施加外部雕塑形态，将造型权力移交给材料的自生物理属性（重力悬垂、弹性形变、脆裂断层）。创作者主要负责配置激发物理反应的情境条件（悬挂、堆叠、挤压），形式在物理定律的自发平衡中生成。
 
-#### 3. 代表性一手案例 `[PRIMARY SOURCE]`
+#### 3. 代表性一手案例与馆藏档案
 *   **Robert Morris (罗伯特·莫里斯)**:
-    *   *理论宣言*：《Anti Form》(反形式), *Artforum* Vol. 6, No. 8, April 1968, pp. 33–35：“Considerations of ordering are necessarily casual and imprecise and end in indeterminate arrangements... Random piling, loose stacking, hanging, give passing form to the material. Chance is accepted and indeterminacy is implied.”
-    *   *代表性作品*：《Untitled (Pink Felt)》(无题 [粉色毛毡]), 1970 年 / 《Felt Pieces》(毛毡系列), 1967–1968 年。
-        *   *制作规则*：将厚重工业毛毡切割出均匀的几何平行切口（完全理性的二维几何图纸），然后将其悬挂在墙上的几个铁栓上，或者任其堆积在地面。在重力作用下，原本平整的几何网格发生剧烈形变、下坠与层叠折叠，最终形成充满深沉阴影与软质张力的三维形态。
-        *   *馆藏档案*：Solomon R. Guggenheim Museum (New York), Panza Collection, Acc. No. 91.3804; The Museum of Modern Art (MoMA).
+    *   *文献宣言 `[PRIMARY TEXT]`*：《Anti Form》(反形式), *Artforum*, Vol. 6, No. 8, April 1968, pp. 33–35：“Random piling, loose stacking, hanging, give passing form to the material. Chance is accepted and indeterminacy is implied.”
+    *   *代表性作品 `[FIRST-PARTY ARCHIVE]`*：《Untitled (Pink Felt)》(无题 [粉色毛毡]), 1970 年。
+        *   *馆藏档案*：Solomon R. Guggenheim Museum (New York), Panza Collection, Accession Number: `91.3804` ([Guggenheim Record 91.3804](https://www.guggenheim.org/artwork/3008)).
+        *   *材料规则 `[PRIMARY TEXT]`*：厚工业毛毡被切割出平行的几何切口，随后在墙面挂钩或地面自然悬垂堆叠。几何切口因自重与柔韧性产生下垂、折叠与深阴影，形成富于体积感的柔性雕塑。
 *   **Lee Ufan (李禹焕)**: 《Relatum》(关系项 / 原名《现象与知觉 B》), 1968 年首创。
-    *   *实践法则*：将一块未加工的天然巨石从高处放下，使其压碎一块平铺在厚钢板上的工业透明平板玻璃。石头的重力、玻璃的脆裂裂纹与钢板的刚性在现场同时显现。艺术家不参与雕琢，仅主持“物与物、物与空间的相遇”。
-    *   *档案来源*：Tate Modern Collection; Solomon R. Guggenheim Museum (2011 回顾展《Marking Infinity》官方文献).
+    *   *馆藏与文献档案 `[FIRST-PARTY ARCHIVE]`*：National Museum of Modern Art, Tokyo; Solomon R. Guggenheim Museum (2011 回顾展《Marking Infinity》官方编目).
+    *   *物理法则 `[PRIMARY TEXT]`*：将未加工的天然巨石落于平铺在钢板上的平板玻璃表面，石块重力使玻璃碎裂成网状裂纹。艺术家不进行刻意雕饰，而是揭示天然石、工业玻璃与钢板在瞬时受力下的物质相遇。
 
 #### 4. 参与者实际上被要求做什么
-参与者停止雕刻与塑形，而是成为“物理情境的设计者”。例如：将一块浸满泥浆的厚麻布悬挂在三根木棍上，静待水分挥发与自重下垂定型；或者寻找不同硬度、粗糙度的天然石与人工铸铁进行直接堆叠，寻找其物理失稳前的临界平衡点。
+参与者停止雕刻与塑形，转向设计“力学边界”。例如：将含水纤维物料悬挂于不同支撑点，观察水分蒸发与重力拉扯下的自然塑形；或将不同刚度、摩擦系数的材料直接堆叠，寻找其临界平衡状态。
 
 #### 5. 改变的维度
-*   **核心改变**：**材料关系与因果自洽**（Material Causality & Equilibrium）。
-*   **具体表现**：形式是由重力、拉力、摩擦力与材料刚度共同计算出来的物理真实，杜绝了主观臆造的虚假细节与形式浮夸。
+*   **核心改变**：**物理因果律与材料内在平衡**（Physical Causality & Equilibrium）。
+*   **具体表现**：形态由材料自身的抗拉度、重力与支点分布直接决定，消除了纯粹观念强加在材料上的虚饰。
 
-#### 6. 与课程阶段的潜在关联 `[RESEARCHER INFERENCE]`
-*   **关联阶段**：**Part 1「原点」 (W1) 与 Part 3「1 → N」 (W4–6)**。
-*   **推断理由**：
-    *   在 Part 1，直接让学生直面材料在重力下的自然极限，摧毁“屏幕无摩擦建模”的虚妄感；
-    *   在 Part 3，莫里斯的切口毛毡展现了极佳的“变量控制范本”：同样的切割间距，挂在 2 个点、3 个点或 4 个点上，由于重力分布改变会产生完全不同的可比较形态序列，直接契合造型语法的结构推演。
+#### 6. 课程教学推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **适配阶段**：**Part 1「原点」 (W1) 与 Part 3「1 → N」 (W4–6)**。
+*   **假说推断理由**：
+    *   在 Part 1，材料受重力自然形变的测试有助于让学生建立真实的材料阻抗概念；
+    *   在 Part 3，莫里斯的毛毡切割悬挂提供了一种清晰的变量对比思路：在保持切割规格一致的前提下，调整悬挂支点数量与间距，即可获得一系列可横向比较的形态谱系。
 
 #### 7. 局限性与风险
-*   **材料惰性与套路化**：学生容易照猫画虎地把毛毡往墙上一挂、把石头往玻璃上一扔，缺乏对受力机理与现场空间的深究，沦为物派样式的表面模仿；
-*   **安全与重工业隐患**：厚重金属、碎玻璃与大石块在教学机房或普通教室中存在物理安全隐患，需要转译为室内安全材料（如木材、重质织物、石膏、绳索）。
+*   **图式化模仿**：容易仅停留在毛毡悬挂或石块堆放的表面视觉样式，未深入探索材料受力状态与力学边界；
+*   **车间与机房安全约束**：大块石材、脆性玻璃及重型金属在普通教学环境中存在安全风险，须转译为安全轻量媒介（如木条、麻绳、石膏板、帆布）。
 
 ---
 
 ### 2.8 Collaboration & Participatory Relations (多主体协作与关系互动)
 
-#### 1. Paradigm / 机制名称
+#### 1. Paradigm / 机制名称 `[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`
 **多主体协作与关系互动（Collaboration & Participatory Relations）/ 工具物激活（Instrumental Activation）**
 
 #### 2. 核心规则是什么
-单个人无法完成造物闭环；作品被设计为未完成的“连接工具”或“关系媒介”，必须由两人或多人同时提供身体动作、反向拉力或步调协同，形式才能在身体对抗与合作中暂时维持。
+单人无法独立完成形体或意义闭环；作品被构建为一种开放的“身体媒介”或“连接器具”，必须由两人或多人同时提供身体对抗、平衡拉力或步调协同，形式才能在动态张力中维持。
 
-#### 3. 代表性一手案例 `[PRIMARY SOURCE]`
+#### 3. 代表性一手案例与馆藏档案
 *   **Franz Erhard Walther (弗朗茨·埃尔哈德·瓦尔特)**: 《1. Werksatz》(第一工作集), 1963–1969 年。
-    *   *结构系统*：由 58 件缝制的帆布、粗棉布构件组成，存放于抽屉中时为“储存形态（Lagerform）”；当观众将其取出并穿戴、展开、共同站立拉伸时，成为“行动形态（Handlungsform）”。
-    *   *一手操作案例*：
-        *   `Sehkanal` (视觉通道): 两人分别将头套入一条长达数米的帆布通道两端，通过狭长管道凝视对方，调整头部距离与身体张力；
-        *   `Körpergewichte` (身体配重): 两人分别踩在同一条相连帆布带的两个端口上，一人后仰的重力直接拉扯另一人的平衡，必须共同协调肌肉拉力才能保持站立。
-    *   *馆藏档案*：The Museum of Modern Art (MoMA), New York, Gift of the Ronald S. Lauder Foundation, Acc. No. 202.2010.1-58; Franz Erhard Walther Foundation, Fulda.
-*   **Lygia Clark (莱吉亚·克拉克)**: 《Rede de Elásticos》(弹性网络), 1973 年（巴黎索邦大学学生集体工坊项目）。
-    *   *规则体系*：用无数弹性橡胶带编织成一张巨型互联网络，全班数十名学生同时套入其中，任何一个人的微小跑动、蹲伏都会通过弹性网络瞬间传递给所有人，形成全场身体受力的动态连锁反应。
-    *   *文献来源*：Associação Cultural Lygia Clark, "The Sorbonne Years (1972–1976)".
+    *   *馆藏档案 1 `[FIRST-PARTY ARCHIVE]`*：The Museum of Modern Art (MoMA), New York. Scott Burton Fund, Object Numbers: `1060.2010.1`–`1060.2010.58` ([MoMA Collection Record 163552](https://www.moma.org/collection/works/163552)).
+    *   *馆藏档案 2 `[FIRST-PARTY ARCHIVE]`*：MUSEUM MMK FÜR MODERNE KUNST (Frankfurt am Main), Inventarnummer: `1981/54` (ehemals Sammlung Karl Ströher).
+    *   *基金会档案 `[FIRST-PARTY ARCHIVE]`*：Franz Erhard Walther Foundation (Fulda).
+    *   *理论与操作体系 `[PRIMARY TEXT]`*：58 件缝制布料构件。静置时为“储存形态（Lagerform）”，当观众展开穿戴、共同受力拉伸时转化为“行动形态（Handlungsform）”。
+        *   `Körpergewichte` (身体配重): 两人分别立于相连布带两端，依靠后仰的身体自重互相平衡；
+        *   `Sehkanal` (视觉通道): 两人各套入布料管道两端，依靠身体牵引调整视线与距离。
+*   **Lygia Clark (莱吉亚·克拉克)**: 《Rede de Elásticos》(弹性网络), 1973 年（巴黎第一大学/索邦工坊）。
+    *   *文献档案 `[FIRST-PARTY ARCHIVE]`*：Associação Cultural Lygia Clark, "The Sorbonne Years (1972–1976)".
+    *   *互动规则 `[PRIMARY TEXT]`*：全班共同套入交织的弹性橡胶带网络中，任何个体的蹲起或位移均通过弹性网络瞬间向全场传导力学反馈。
 
 #### 4. 参与者实际上被要求做什么
-参与者不再是“孤立的雕塑创作者”，而是成为“受力网络中的一个节点”。学生必须与同伴对话、协商、呼吸同步或物理角力，共同支撑起一件帆布结构或弹性网，任何单方面的放弃都会导致结构整体坍塌。
+参与者不再是孤立的创作者，而是成为受力网络中的互动节点。参与者必须与同伴对话、协商重心、同步动作，任何单方面的失控都会导致整体受力结构失效。
 
 #### 5. 改变的维度
 *   **核心改变**：**主体间性与社会关系空间**（Intersubjectivity & Relational Space）。
-*   **具体表现**：消解了个人英雄主义的闭门造车，迫使学生意识到“造物”不仅关乎物质，更关乎人与人之间力的传递、协作边界与空间契约。
+*   **具体表现**：消解闭门造车的孤立感，促使参与者意识到造物不仅关乎死物，更关乎人与人之间的力学传递、空间界限与协作机制。
 
-#### 6. 与课程阶段的潜在关联 `[RESEARCHER INFERENCE]`
-*   **关联阶段**：**Part 2「0 → 1」 (W2–3) 与 Part 3「1 → N」 (W4–6 节点构造阶段)**。
-*   **推断理由**：
-    *   在 Part 2，多人体感互动能够最直接地迫使学生察觉日常交往中的“距离受阻”、“张力失衡”，直接催生真实的公共空间与身体命题；
-    *   在 Part 3，瓦尔特的帆布构造展现了绝佳的“软质咬合节点（The Joint）”范例，启发学生不用胶水钉子，仅靠张力与人体负载完成构造推演。
+#### 6. 课程教学推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **适配阶段**：**Part 2「0 → 1」 (W2–3) 与 Part 3「1 → N」 (W4–6 节点构造阶段)**。
+*   **假说推断理由**：
+    *   在 Part 2，多人体感互动有助于促使学生觉察交往距离与身体张力，可为空间微命题提供线索；
+    *   在 Part 3，瓦尔特的软性连接系统为柔性咬合节点（The Joint）提供了一种参考可能：无需刚性固定，依靠张力与支撑同样可以建构变体。
 
 #### 7. 局限性与风险
-*   **责任分散（搭便车）**：群体协作中容易出现少数积极分子主导、其余学生被动摸鱼的现象，削弱了每个人独立留下扎实过程证据的要求；
-*   **过度依赖人际关系**：若缺乏实体物质的锚固，容易演化为纯粹的团队破冰游戏或即兴戏剧，偏离雕塑与造物课程的核心。
+*   **群体责任分散**：集体活动易出现少数人主导而其余人被动跟随的现象，影响个人扎实证据的沉淀；
+*   **偏离造型探索**：若缺乏实体材料与构造形态的承载，容易转变为纯粹的人际团建破冰，削弱立体造型的研究深度。
 
 ---
 
 ### 2.9 Site & Spatial Intervention (场域切割与空间阻抗介入)
 
-#### 1. Paradigm / 机制名称
-**场域切割与空间阻抗介入（Site & Spatial Intervention）/ 负向减法与空间拓扑（Subtractive Anarchitecture）**
+#### 1. Paradigm / 机制名称 `[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`
+**场域切割与空间阻抗介入（Site & Spatial Intervention）/ 空间拓扑与减法介入（Subtractive Spatial Topology）**
 
 #### 2. 核心规则是什么
-不在真空中制造可随意挪动的小摆件；而是直接将现存的建筑物、废墟、门框、墙角或特定场地作为不可分割的“实体雕塑母体”，通过精准的**几何减法切割、穿透、位移或轨迹留存**，将原本平庸封闭的空间转化为充满光影交错与失衡错觉的感知仪器。
+脱离展台基座的孤立摆件思维，将既有建筑空间、门窗死角、通道或特定场地直接作为雕塑的母体；通过局部的**几何减法、穿透、阻断或轨迹留存**，将原本平庸的封闭空间转换为显露力学、光线与视线关系的感知现场。
 
-#### 3. 代表性一手案例 `[PRIMARY SOURCE]`
-*   **Gordon Matta-Clark (戈登·马塔-克拉克)**:
-    *   *核心作品*：《Splitting》(裂开), 1974 年（美国新泽西州恩格尔伍德待拆迁双层木屋）。
-        *   *工程减法规则*：在木屋正中央用电锯切开一道贯穿屋顶、墙壁与地板的 1 英寸垂直切口，随后将房屋后半部的地基砖石削低 5 度，使整栋房屋向后倾斜裂开一条逐渐变宽的光缝，将原本封闭压抑的中产阶级住宅内部彻底暴露给天空与外界。
-        *   *馆藏与文献档案*：Canadian Centre for Architecture (CCA), Montreal, Gordon Matta-Clark Collection, Collection No. PH1982:0212; The Museum of Modern Art (MoMA), New York, Acc. No. 1383.2001.
+#### 3. 代表性一手案例与馆藏档案
+*   **Gordon Matta-Clark (戈登·马塔-克拉克)**: 《Splitting》(裂开), 1974 年（美国新泽西州恩格尔伍德待拆迁木屋）。
+    *   *馆藏与文献档案 `[FIRST-PARTY ARCHIVE]`*：Canadian Centre for Architecture (CCA, Montreal), Gordon Matta-Clark Collection, Collection No. `PH1982:0212`; The Museum of Modern Art (MoMA), New York, Object Number: `326.1991` ([MoMA Collection Record 50871](https://www.moma.org/collection/works/50871)).
+    *   *减法工程法则 `[PRIMARY TEXT]`*：在双层木屋中心用电锯切开一道 1 英寸的垂直通缝，并将后半部地基削低，使木屋向后倾斜形成逐渐扩大的光缝，使封闭结构内部与外部天空产生直接视觉沟通。
 *   **Richard Long (理查德·朗)**: 《A Line Made by Walking》(行走留下的线), 1967 年。
-    *   *极简动作规则*：在英格兰西南部的一片平整草地上，艺术家沿着笔直的路径来回持续走动，草叶被鞋底反复踩踏压倒，直到阳光反射下显现出一条清晰的浅色直线，随后用相机拍摄记录。
-    *   *馆藏档案*：Tate Modern (London), Purchased 1976, Ref. No. T01428.
+    *   *馆藏档案 `[FIRST-PARTY ARCHIVE]`*：Tate Modern (London), Purchased 1976, Reference Number: `P07149` ([Tate Collection Record P07149](https://www.tate.org.uk/art/artworks/long-a-line-made-by-walking-p07149)).
+    *   *极简动作程序 `[PRIMARY TEXT]`*：在草地上反复沿直线往返行走，直至被鞋底踩倒的草叶在光线折射下形成一条清晰的直线痕迹，随后以摄影记录。
 
 #### 4. 参与者实际上被要求做什么
-参与者寻找校园或工作室现场的一个特定空间角落（如废弃门框、楼梯死角、暖气管道与墙壁的夹缝），利用极简的阻断、穿透或开缝操作（例如拉绳封锁、纸板封堵部分光线、移除一扇废弃木板），测量并记录光影、穿行路径与人体感知如何被这一微小介入彻底改写。
+参与者寻找特定场地中被忽视的局部（如通道转角、采光死角、栏杆与墙壁夹缝），通过轻量的阻断、穿透、遮挡或反复踩踏走动，测量并记录空间的穿行感受、采光与尺度变化。
 
 #### 5. 改变的维度
-*   **核心改变**：**空间拓扑与场域重构**（Spatial Topology & Site-Specificity）。
-*   **具体表现**：终结了“雕塑就是底座上放雕像”的古典神话，将作品与建筑、地面、光线和观众步态深深焊死在一起，使“无（虚空与切缝）”成为震撼性的视觉主角。
+*   **核心改变**：**空间拓扑重组与场域互文**（Spatial Topology & Site-Specificity）。
+*   **具体表现**：打破“雕塑即实体孤岛”的预设，通过“切口、缝隙与路径”使虚空成为空间结构的主角。
 
-#### 6. 与课程阶段的潜在关联 `[RESEARCHER INFERENCE]`
-*   **关联阶段**：**Part 2「0 → 1」 (W2–3) 与 Part 4「N → 我」 (W7–8)**。
-*   **推断理由**：
-    *   在 Part 2，寻找空间中的别扭角落并做轻量切入，是提炼“原初感受与空间问题意识”的高效途径；
-    *   在 Part 4，大课要求回答“有·无”，并建立作品与地面、空间及观众遭遇的方式。马塔-克拉克式的切缝与负向造物，直接向学生示范了“什么是当其无，有器之用——虚空恰恰由精准的实体边界所定义”。
+#### 6. 课程教学推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **适配阶段**：**Part 2「0 → 1」 (W2–3)**（注：Part 4 作为后续可能相关项，详见第 4 节）。
+*   **假说推断理由**：在 Part 2，寻找工作室或校园中狭窄别扭的空间角落并做轻量干预，有助于帮助学生从物理摩擦中提炼出关于空间尺度的具体问题意识。
 
 #### 7. 局限性与风险
-*   **场地破坏与安全红线**：高校工作室严禁对建筑结构造成真实破坏（违规电锯切割或敲墙），必须严格限定为“非破坏性的可逆介入（Reversible Intervention）”；
-*   **过度依赖现成空间**：容易变成简单的寻章摘句，学生忽视了自身实体构件的精确工艺质量。
+*   **场地破坏与安全红线**：严禁在教学环境中进行不可逆的建筑实体破坏，所有介入必须严格限定为可逆、轻量且符合安全规范的操作；
+*   **沦为环境寻宝打卡**：容易变成浮于表面的拍照留念，忽视了对自身实体构件与节点质量的深入推敲。
 
 ---
 
 ## 3. 九大范式横向对比与特征矩阵
 
-| 实践范式 (Paradigm) | 驱动核心机制 | 核心操作媒介 | 关键改变维度 | 对应教学潜在契合点 `[INFERRED]` | 主要教学风险 / 陷阱 |
+> **性质声明**：`[RESEARCHER SYNTHESIS / PROJECT TAXONOMY]`  
+> 以下表格系研究者对上述九大艺术工作机制进行的横向提炼与对比，用于梳理各机制的驱动方式、媒介特点与潜在教学风险。
+
+| 实践范式 (Paradigm) | 驱动核心机制 | 核心操作媒介 | 关键改变维度 | 对应课程潜在推断阶段 `[DESIGN HYPOTHESIS]` | 主要教学风险 / 局限性 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1. Instruction-based**<br>(指令记谱) | 极简文本命题与开放执行 | 文本卡片、日常物、偶发情境 | 感知聚焦与行动脱敏 | **Part 1**：破冰脱除艺考造型预设，直接进入材料记录 | 容易沦为轻浮的文学俏皮话，缺乏物质阻力 |
-| **2. Rule-based**<br>(规则生成) | 算法逻辑严密推演，穷尽组合 | 几何单元、数学公式、图纸 | 形式自主涌现与自律秩序 | **Part 3**：生成多件可比较变体，避免过早收敛单件 | 容易变成机械算术题，丧失材料触觉与手感温度 |
-| **3. Constraint-based**<br>(动作限制) | 严格限定动词或身体极限时间 | 单一及物动词、日常器具、身体 | 行动残痕与重力对抗 | **Part 1 & 2**：单一动词成型，身体不适转化问题 | 易滑向打卡搞笑，或仅停留在材料破坏浅层 |
-| **4. Chance / Indeterminacy**<br>(机缘偶然) | 让渡控制权，自然物理定律支配 | 自由落体、流体、风、度量尺 | 权威瓦解与偶发系统化 | **Part 1 & 3**：放下控制欲，将偶然样本确立为新基准 | 假借偶然逃避技术责任，缺乏实验条件控制 |
-| **5. Repetition / Iteration**<br>(重复微变) | 大量均一重复劳动，沉淀微小容差 | 模具、单一体素、手工持续时间 | 时间耐力与材料容差 | **Part 3**：单体连续迭代，构建有机变体聚落 | 体力消耗导致思想麻木，课堂学时极易超载 |
-| **6. Bodily Action**<br>(身体行动) | 剥夺视觉常态，强制具身介入 | 莫比乌斯环、感官面罩、肢体姿态 | 具身感知重塑与触觉优先 | **Part 1 & 2**：打破视网膜审美，察觉身体与空间摩擦 | 易陷于私人心理疗愈，新生容易羞怯抗拒 |
-| **7. Material-Responsive**<br>(物性响应) | 反形式加工，激发物性自身成型 | 工业毛毡、天然石材、悬垂与重力 | 材料因果自洽与真实受力 | **Part 1 & 3**：对抗屏幕无摩擦建模，单变量悬挂推演 | 表面模仿大师样式，重材料在普通机房有安全隐患 |
-| **8. Collaboration**<br>(协作参与) | 两人以上身体互锁，力与节奏传递 | 缝制帆布构件、弹性绳网、多主体 | 主体间性与社会关系空间 | **Part 2 & 3**：多人体感察觉交往阻抗，张力节点咬合 | 容易出现搭便车摸鱼，或偏离造物滑向纯破冰游戏 |
-| **9. Site Intervention**<br>(场域介入) | 原地负向切割、穿透或轨迹留存 | 建筑缝隙、地表路径、空间光影 | 空间拓扑与场域互文 | **Part 2 & 4**：寻找空间别扭死角，以“虚空/裂缝”回答有无 | 易触犯场地安全红线，容易沦为浮光掠影的拍照打卡 |
+| **1. Instruction-based**<br>(指令记谱) | 极简文本命题与开放物理执行 | 文本卡片、日常物、偶发情境 | 感知聚焦与行动启动阈值降低 | **Part 1**：阻断预设造型焦虑，直接开展材料记录 | 容易沦为概念文字游戏，缺乏手工阻力与实体深度 |
+| **2. Rule-based**<br>(规则生成) | 算法规则严格推演，遍历组合 | 几何单元、数学公式、图纸 | 形式自律涌现与内在逻辑语法 | **Part 3**：推演多件可比较变体，避免过早收敛单件 | 易变成纯纸面算术题，脱离材料触感与工艺特征 |
+| **3. Constraint-based**<br>(动作限制) | 严格规约单一及物动词或姿态时间 | 单一及物动词、日常器具、身体 | 动作力学残痕与重力对抗 | **Part 1 & Part 2**：单一动作成型，借助受力不适提炼问题 | 易滑向表层戏谑恶搞，或仅停留在浅层材料破坏 |
+| **4. Chance / Indeterminacy**<br>(机缘偶然) | 让渡终态控制权，物理定律主导 | 自由落体、流体、偶发测量尺规 | 作者权让渡与度量标尺非标重构 | **Part 1 & Part 3**：放下先验控制，意外形变转为新基准 | 假借偶然逃避技术责任，缺乏实验初始边界控制 |
+| **5. Repetition / Iteration**<br>(重复微变) | 统一工序密集重复，沉淀微容差 | 模具、单一体素、手工持续时间 | 时间耐力与材料容差沉淀 | **Part 3**：基础单体连续迭代，构建对比变体序列 | 机械劳动致思维麻木，容易导致学时严重超载 |
+| **6. Bodily Action**<br>(身体行动) | 抑制视觉主导，强调具身介入 | 莫比乌斯环、感官遮断、肢体姿态 | 具身感知重构与触觉感知优先 | **Part 1 & Part 2**：打破视网膜审美，察觉人与空间摩擦 | 易陷入私人情绪宣泄，学生初次接触可能产生羞怯 |
+| **7. Material-Responsive**<br>(物性响应) | 反预设形式，促使物性自发成型 | 工业毛毡、天然石材、悬垂与重力 | 物理因果自洽与材料力学平衡 | **Part 1 & Part 3**：对抗无摩擦建模，单变量悬挂推演 | 表面模仿大师样式，重型材料存在室内安全风险 |
+| **8. Collaboration**<br>(协作参与) | 多主体身体互锁，张力节奏传递 | 缝制布料构件、弹性网络、多参与者 | 主体间性与社会关系空间 | **Part 2 & Part 3**：多人体感察觉交往界限，柔性张力节点 | 容易出现搭便车现象，脱离物质易沦为纯团建游戏 |
+| **9. Site Intervention**<br>(场域介入) | 原位空间减法、穿透或轨迹留存 | 建筑缝隙、地表路径、空间光影 | 空间拓扑重组与场域互文 | **Part 2**：发掘空间别扭角落，提炼身体尺度问题 | 易触犯场地安全红线，容易沦为浮光掠影的拍照打卡 |
 
 ---
 
 ## 4. 课程映射综合推断与阶段适配分析
 
-> **严正声明**：以下内容为课程研究者（Researcher）基于艺术教育学与小班教学法所作出的**结构性推断（Inferred Mapping）**，不代表上述各流派艺术家的原始意图，亦不代表当前已将这些范式写入执行大纲。
+> **严正声明**：以下内容属于课程研究者基于小班教学特点所作出的**假设性推断（Design Hypothesis）**，不代表上述各流派艺术家的原始意图，亦**不代表当前已将这些范式写入课程执行大纲**。正式映射范围严格限于 **Part 1 / Part 2 / Part 3**。
 
 ```
-                  【大一学生进阶发展弧线】
-   [前置状态] 艺考考前班预设惯性、屏幕建模无摩擦、概念空转
-       │
-       ▼
-   【Part 1: 原点】 (W1) ── 卸除控制预设，重获原初感知
-       ├── 适配机制：1. Instruction-based (指令破冰)
-       ├── 适配机制：3. Constraint-based (单一动词动作)
-       └── 适配机制：6. Bodily Action (剥夺视觉，触觉直面材料)
-       │
-       ▼
-   【Part 2: 0 → 1】 (W2-3) ── 身体受阻与日常空间遭遇，提炼微命题
-       ├── 适配机制：3. Constraint-based (身体姿态极限与不适感)
-       ├── 适配机制：8. Collaboration (多主体力学传递与失衡)
-       └── 适配机制：9. Site Intervention (寻找场地中被忽略的别扭死角)
-       │
-       ▼
-   【Part 3: 1 → N】 (W4-6) ── 变量控制与形式语法，推演变体矩阵
-       ├── 适配机制：2. Rule-based (严密组合算法推导变体)
-       ├── 适配机制：4. Chance (将偶然落体固化为新模数尺规)
-       ├── 适配机制：5. Repetition (同构单体连续迭代沉淀容差)
-       └── 适配机制：7. Material-Responsive (重力悬垂与受力平衡节点)
-       │
-       ▼
-   【Part 4: N → 我】 (W7-8) ── 确立个人创作立场，实体回应「有·无」
-       └── 适配机制：9. Site Intervention (切缝、虚空与场域互文)
+                  【教学阶段潜在机制映射推断示意】
+    【Part 1: 原点】 (W1) ── 卸除先验造型焦虑，直面材料阻抗与具身体验
+        ├── 潜在机制参考：1. Instruction-based (极简行动命题)
+        ├── 潜在机制参考：3. Constraint-based (单一及物动词规约)
+        ├── 潜在机制参考：4. Chance (重力自然落体试验)
+        ├── 潜在机制参考：6. Bodily Action (抑制视觉，触觉感知优先)
+        └── 潜在机制参考：7. Material-Responsive (材料自然悬垂与自重形变)
+        │
+        ▼
+    【Part 2: 0 → 1】 (W2-3) ── 身体受阻与日常空间遭遇，提炼原初问题意识
+        ├── 潜在机制参考：3. Constraint-based (身体姿态在时间/重力约束下的不适感)
+        ├── 潜在机制参考：6. Bodily Action (身体尺度与环境界限的具身碰撞)
+        ├── 潜在机制参考：8. Collaboration (多主体力学互锁与协作界限)
+        └── 潜在机制参考：9. Site Intervention (发掘场地中被忽视的逼仄角落)
+        │
+        ▼
+    【Part 3: 1 → N】 (W4-6) ── 变量控制与造型语法，展开实体变体推演
+        ├── 潜在机制参考：2. Rule-based (参数与规则遍历推导变体)
+        ├── 潜在机制参考：4. Chance (将偶发形变固定为新模数与度量工具)
+        ├── 潜在机制参考：5. Repetition (基准单体连续迭代沉淀工艺容差)
+        ├── 潜在机制参考：7. Material-Responsive (支点与悬垂变量控制)
+        └── 潜在机制参考：8. Collaboration (基于柔性张力的咬合节点 [The Joint])
+        │
+        ▼
+    【Part 4: N → 我】 (W7-8) ── [OUT OF CURRENT SCOPE / LATER REFERENCE ONLY]
+        └── （注：Part 4 属于学生个人创作立场的综合收敛，不纳入当前基础机制的深度映射范围；
+             如后续涉及作品与地面/空间及虚实关系，第 9 类场域介入机制可能具备参考价值，暂不展开）。
 ```
 
-### 4.1 阶段一（Part 1「原点」）的核心机制组合推断
-*   **诊断**：学生第一周最容易犯的错误是“拿出素描本开始设计精美造型”。
-*   **机制处方**：优先采用 **Instruction-based + Constraint-based (单一及物动词)**。
-    *   例如：不给学生纸笔，仅分发一条极简指令（“用双手将提供的软性材料撕裂 20 次并按触觉重量排列”）。规则发布后，学生在行动中直接触碰材料物性，天然产生真实的感知手记，无痛达成官方《感知记录》的交付基线。
+### 4.1 阶段一（Part 1「原点」）的潜在机制推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **教学情境观察假设**：若学生在第一周表现出对以往既定塑造经验的过度依赖，或倾向于过早构思完整形态而难以进入材料动手环节；
+*   **备选机制参考 `[POSSIBLE DESIGN IMPLICATION — NOT ADOPTED]`**：
+    *   **Instruction-based + Constraint-based (单一及物动词)**：通过限定极简的动作命题（例如“仅使用双手将分配的软性材料沿单一逻辑撕裂并记录阻力变化”），学生得以绕过“必须画出满意草图”的心理包袱，直接进入物理材料的受力过程；
+    *   **Bodily Action / Haptic**：通过限制非必要的视觉先入之见（如闭眼触摸不同密度的材料并按重量排序），让感知焦点回到真实的触觉反馈，为完成官方大纲要求的《感知记录》提供直接的经验材料。
 
-### 4.2 阶段二（Part 2「0 → 1」）的核心机制组合推断
-*   **诊断**：学生在提炼问题时，最容易写出“探讨人与自然宇宙的关系”这种假大空口号。
-*   **机制处方**：优先引入 **Bodily Action (身体行动) 或 Collaboration / Site Intervention (场域微介入)**。
-    *   例如：要求两人一组在特定通道或桌椅间完成一次平衡协同，或用身体测量一处逼仄角落的压迫感。问题不是想出来的，而是身体碰壁碰出来的；提炼出的微命题必定真实且可物理检验。
+### 4.2 阶段二（Part 2「0 → 1」）的潜在机制推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **教学情境观察假设**：若学生在提炼问题意识时陷入抽象观念或宏大口号，无法与具体物理空间或身体感受建立联结；
+*   **备选机制参考 `[POSSIBLE DESIGN IMPLICATION — NOT ADOPTED]`**：
+    *   **Constraint-based (姿态约束) 与 Site Intervention (空间微介入)**：引导学生在工作空间中寻找受阻、狭窄或不便的物理死角（如门后缝隙、台阶转折），通过身体姿态的短暂介入体验空间对身体的压迫与限制。问题意识从“身体与环境的具体摩擦”中自然产生，能够保持其实体可检验性；
+    *   **Collaboration (双人协作)**：两人配合维持一件物体的力学平衡，促使学生观察力在身体间传递的断裂与重组，为后续空间尺度的探讨提供直观案例。
 
-### 4.3 阶段三（Part 3「1 → N」）的核心机制组合推断
-*   **诊断**：学生进入制作时，最容易“做了一个满意的雕塑，然后开始涂脂抹粉当成期末作品”，彻底丧失探索的纵深。
-*   **机制处方**：强制引入 **Rule-based (算法规则) ＋ Repetition (重复迭代) ＋ Material-Responsive (物性悬垂)**。
-    *   例如：要求确立一个固定的构造节点（The Joint）或单一几何体素，强制运用加减法或不同悬挂点，推演出 5–8 个可横向对比的实体原型。学生在这个阶段学会当一名“严谨的物质科学家”。
+### 4.3 阶段三（Part 3「1 → N」）的潜在机制推断 `[DESIGN HYPOTHESIS / OPEN]`
+*   **教学情境观察假设**：若学生在变体推演阶段容易过早收敛为单件成品，或者各个草模之间缺乏逻辑关联、沦为随意拼凑；
+*   **备选机制参考 `[POSSIBLE DESIGN IMPLICATION — NOT ADOPTED]`**：
+    *   **Rule-based (规则穷尽) ＋ Repetition (序列迭代)**：设定明确的变量调节逻辑（如固定基础体素尺寸，仅改变结合角度；或固定切割间距，仅改变悬挂支点位置），推导出一组可横向并置比较的变体矩阵。学生能够通过可控实验追踪每一个参数变化对整体受力与形态带来的具体影响；
+    *   **Material-Responsive ＋ The Joint (节点构造)**：瓦尔特的布料咬合或莫里斯的受力悬垂，能为学生提供关于“非胶水/非钉接构造”的参考，引导学生在真实重力与材料刚度对抗中检验造型语法的稳定性。
 
 ---
 
 ## 5. 一手档案与参考书目 (Primary Sources & Archival References)
 
-1. **George Brecht**:
-   - Brecht, George. *Water Yam*. First edition, New York: Fluxus Editions, 1963.
-   - MoMA Collection Archives: *The Gilbert and Lila Silverman Fluxus Collection Gift*, Object No. 2289.2008.
-   - Martin, Henry. *An Introduction to George Brecht's Book of the Tumbler on Fire*. Milan: Multhipla Edizioni, 1978.
-2. **Sol LeWitt**:
-   - LeWitt, Sol. "Paragraphs on Conceptual Art." *Artforum*, Vol. 5, No. 10, June 1967, pp. 79–83.
-   - LeWitt, Sol. "Sentences on Conceptual Art." *0-9*, No. 5, January 1969, pp. 3–5.
-   - LeWitt, Sol. *Wall Drawings: 1968–1984*. Amsterdam: Stedelijk Museum, 1984.
-   - MASS MoCA Exhibition Archive: *Sol LeWitt: A Wall Drawing Retrospective* (MASS MoCA Building 7, 2008–2033).
-3. **Richard Serra**:
-   - Serra, Richard. *Verb List Compilation: Actions to Relate to Oneself*, 1967–1968. Pencil on two sheets of paper, MoMA Collection, Acc. No. 280.2011.1-2.
-   - Serra, Richard. *Writings / Interviews*. Chicago: University of Chicago Press, 1994.
-   - MoMA Exhibition Catalog: *Richard Serra Sculpture: Forty Years*. New York: The Museum of Modern Art, 2007.
-4. **Erwin Wurm**:
-   - Wurm, Erwin. *One Minute Sculptures: 1988–1998*. Ostfildern: Cantz Verlag, 1999.
-   - Centre Pompidou Collection Database: *One Minute Sculptures (1997–1998)*, Ref. AM 2001-83.
-   - Tate Modern Exhibition Archive: *Performing for the Camera*, 2016.
-5. **Marcel Duchamp**:
-   - Duchamp, Marcel. *3 Stoppages Étalon* (3 Standard Stoppages), 1913–1914. MoMA Collection, Katherine S. Dreier Bequest, Acc. No. 70.1953.a-i.
-   - Duchamp, Marcel. *The Essential Writings of Marcel Duchamp*. Edited by Michel Sanouillet and Elmer Peterson. London: Thames & Hudson, 1975.
-   - Judovitz, Dalia. *Unpacking Duchamp: Art in Transit*. Berkeley: University of California Press, 1995.
-6. **Eva Hesse**:
-   - Hesse, Eva. *Repetition Nineteen III*, 1968. Fiberglass and polyester resin, 19 units. MoMA Collection, Acc. No. 279.1969.a-s.
-   - Lippard, Lucy R. *Eva Hesse*. New York: New York University Press, 1976.
-   - Nixon, Mignon, ed. *Eva Hesse*. Cambridge, MA: MIT Press (October Files), 2002.
-7. **Lygia Clark**:
-   - Clark, Lygia. "Caminhando" (1963). In *Lygia Clark*, edited by Manuel J. Borja-Villel and Nuria Enguita Mayo. Barcelona: Fundació Antoni Tàpies, 1997.
-   - Clark, Lygia. *Lygia Clark: The Abandonment of Art, 1948–1988*. Exhibition catalogue edited by Cornelia Butler and Luis Pérez-Oramas. New York: The Museum of Modern Art, 2014.
-   - Associação Cultural Lygia Clark: Official Archives on *Bichos* (1960) and *Estruturação do Self* (1976–1988).
-8. **Robert Morris**:
-   - Morris, Robert. "Anti Form." *Artforum*, Vol. 6, No. 8, April 1968, pp. 33–35.
-   - Morris, Robert. "Notes on Sculpture, Part 4: Beyond Objects." *Artforum*, Vol. 7, No. 8, April 1969, pp. 50–54.
-   - Morris, Robert. *Continuous Project Altered Daily: The Writings of Robert Morris*. Cambridge, MA: MIT Press, 1993.
-   - Guggenheim Museum Collection: *Untitled (Pink Felt)*, 1970, Panza Collection, Acc. No. 91.3804.
-9. **Franz Erhard Walther**:
-   - Walther, Franz Erhard. *1. Werksatz* (1963–1969). 58 cloth elements. MoMA Collection, Acc. No. 202.2010.1-58.
-   - Walther, Franz Erhard. *Objekte, benutzen / Work as Action*. Cologne: DuMont, 1972.
-   - Franz Erhard Walther Foundation Archives (Fulda, Germany): Catalog Raisonné of the Werksatz.
-10. **Gordon Matta-Clark**:
-    - Matta-Clark, Gordon. *Splitting*. New York: Loft Press, 1974.
-    - Canadian Centre for Architecture (CCA, Montreal): *Gordon Matta-Clark Collection*, Archive Record No. PH1982:0212.
-    - Diserens, Corinne, ed. *Gordon Matta-Clark*. London: Phaidon Press, 2003.
-11. **Lee Ufan (李禹焕)**:
-    - Lee Ufan. *The Search for Encounter: Open-Ended Art of the 1960s and 70s*. Tokyo: Bijutsu Shuppan-sha, 1971; London: Lisson Gallery, 2004.
-    - Solomon R. Guggenheim Museum: *Lee Ufan: Marking Infinity*. Exhibition Catalogue by Alexandra Munroe. New York: Guggenheim Museum, 2011.
+### 一手文本与原始出版物 `[PRIMARY TEXT]`
+1. **Brecht, George**. *Water Yam*. First edition, designed by George Maciunas. New York: Fluxus Editions, 1963.
+2. **Clark, Lygia**. "Caminhando" (1963). In *Lygia Clark*, edited by Manuel J. Borja-Villel and Nuria Enguita Mayo. Barcelona: Fundació Antoni Tàpies, 1997.
+3. **Duchamp, Marcel**. *The Green Box* (Notes and Projects for the Large Glass). Paris: Edition Rrose Sélavy, 1934; English translation by Richard Hamilton and George Heard Hamilton, New Haven: The Readymade Press, 1960.
+4. **Lee Ufan**. *The Search for Encounter: Open-Ended Art of the 1960s and 70s*. Tokyo: Bijutsu Shuppan-sha, 1971; English edition, London: Lisson Gallery, 2004.
+5. **LeWitt, Sol**. "Paragraphs on Conceptual Art." *Artforum*, Vol. 5, No. 10, Summer (June) 1967, pp. 79–83.
+6. **LeWitt, Sol**. "Sentences on Conceptual Art." *0-9*, No. 5, January 1969, pp. 3–5.
+7. **Matta-Clark, Gordon**. *Splitting*. Artist book / documentation. New York: Loft Press, 1974.
+8. **Morris, Robert**. "Anti Form." *Artforum*, Vol. 6, No. 8, April 1968, pp. 33–35.
+9. **Morris, Robert**. "Notes on Sculpture, Part 4: Beyond Objects." *Artforum*, Vol. 7, No. 8, April 1969, pp. 50–54.
+10. **Ono, Yoko**. *Grapefruit: A Book of Works and Drawings*. Tokyo: Wunternaum Press, 1964 (first edition, 500 copies).
+11. **Serra, Richard**. "Verb List Compilation: Actions to Relate to Oneself." In *Avalanche*, No. 2, Winter 1971, pp. 20–21.
+12. **Walther, Franz Erhard**. *Objekte, benutzen / Work as Action*. Cologne: DuMont Schauberg, 1972.
+
+### 官方机构馆藏档案与编目 `[FIRST-PARTY ARCHIVE]`
+1. **The Museum of Modern Art (MoMA), New York**:
+   - George Brecht, *Water Yam* (1963). The Gilbert and Lila Silverman Fluxus Collection Gift, Object Number: `1988.2008.1-70` ([MoMA Collection Record 126322](https://www.moma.org/collection/works/126322)).
+   - Marcel Duchamp, *3 Standard Stoppages* (1913–14). Katherine S. Dreier Bequest, Object Number: `149.1953.a-i` ([MoMA Collection Record 78990](https://www.moma.org/collection/works/78990)).
+   - Jean (Hans) Arp, *Untitled (Collage with Squares Arranged according to the Law of Chance)* (1916–17). Purchase, Object Number: `457.1937` ([MoMA Collection Record 37013](https://www.moma.org/collection/works/37013)).
+   - Richard Serra, *Verb List* (1967). Gift of the artist in honor of Wynn Kramarsky, Object Number: `843.2011.a-b` ([MoMA Collection Record 152793](https://www.moma.org/collection/works/152793)).
+   - Richard Serra, *To Lift* (1967). Gift of the artist, Object Number: `458.2007` ([MoMA Collection Record 101902](https://www.moma.org/collection/works/101902)).
+   - Eva Hesse, *Repetition Nineteen III* (1968). Gift of Charles and Anita Blatt, Object Number: `1004.1969.a-s` ([MoMA Collection Record 81930](https://www.moma.org/collection/works/81930)).
+   - Bruce Nauman, *Walking in an Exaggerated Manner Around the Perimeter of a Square* (1967–68). Acquired through the generosity of Courtney Plummer, Object Number: `269.2008` ([MoMA Collection Record 117947](https://www.moma.org/collection/works/117947)).
+   - Franz Erhard Walther, *1. Werksatz* (1963–1969, 58 units). Scott Burton Fund, Object Numbers: `1060.2010.1`–`1060.2010.58` ([MoMA Collection Record 163552](https://www.moma.org/collection/works/163552)).
+   - Gordon Matta-Clark, *Splitting* (1974). Acquired through the generosity of Walter J. Brownstone and The Family of Man Fund, Object Number: `326.1991` ([MoMA Collection Record 50871](https://www.moma.org/collection/works/50871)).
+2. **Tate, London**:
+   - Richard Long, *A Line Made by Walking* (1967). Purchased 1976, Reference Number: `P07149` ([Tate Collection Record P07149](https://www.tate.org.uk/art/artworks/long-a-line-made-by-walking-p07149)).
+   - Erwin Wurm, *One Minute Sculptures* series records. Tate Modern Collection Prints and Drawings.
+3. **Centre Pompidou, Musée national d'art moderne, Paris**:
+   - Erwin Wurm, *One Minute Sculptures* (1997–1998, Video, 60 min). Numéro d'inventaire: `AM 2001-133` ([Pompidou Collection Record](https://www.centrepompidou.fr/en/ressources/oeuvre/cRbg8a)).
+4. **San Francisco Museum of Modern Art (SFMOMA)**:
+   - Sol LeWitt, *Incomplete Open Cubes* (1974). Accession Number: `97.516.A-KKKKKKKKKK` ([SFMOMA Collection Record](https://www.sfmoma.org/artwork/97.516.A-KKKKKKKKKK/)).
+5. **Solomon R. Guggenheim Museum, New York**:
+   - Robert Morris, *Untitled (Pink Felt)* (1970). Panza Collection, Accession Number: `91.3804` ([Guggenheim Collection Record](https://www.guggenheim.org/artwork/3008)).
+6. **MUSEUM MMK FÜR MODERNE KUNST, Frankfurt am Main**:
+   - Franz Erhard Walther, *1. Werksatz* (1963–1969). Inventarnummer: `1981/54` (ehemals Sammlung Karl Ströher).
+7. **Canadian Centre for Architecture (CCA), Montreal**:
+   - Gordon Matta-Clark, *Splitting* (Englewood, New Jersey, 1974). Gordon Matta-Clark Collection, Collection Number: `PH1982:0212`.
+8. **Detroit Institute of Arts (DIA)**:
+   - Eva Hesse, *Accession II* (1967–1968). Founders Society Purchase, Accession Number: `79.34` ([DIA Collection Record](https://dia.org/collection/accession-ii-58963)).
+9. **Associação Cultural Lygia Clark, Rio de Janeiro**:
+   - Official Archives on *Caminhando* (1963), *Máscaras Sensoriais* (1967), and Sorbonne Workshops (1972–1976).
+10. **Franz Erhard Walther Foundation, Fulda**:
+    - Archives and Catalogue Raisonné of the *1. Werksatz*.
+
+### 次级学术文献 `[SECONDARY SCHOLARSHIP]`
+1. **Butler, Cornelia, and Luis Pérez-Oramas**, eds. *Lygia Clark: The Abandonment of Art, 1948–1988*. New York: The Museum of Modern Art, 2014.
+2. **Diserens, Corinne**, ed. *Gordon Matta-Clark*. London: Phaidon Press, 2003.
+3. **Judovitz, Dalia**. *Unpacking Duchamp: Art in Transit*. Berkeley: University of California Press, 1995.
+4. **Lippard, Lucy R.** *Eva Hesse*. New York: New York University Press, 1976.
+5. **Martin, Henry**. *An Introduction to George Brecht's Book of the Tumbler on Fire*. Milan: Multhipla Edizioni, 1978.
+6. **Munroe, Alexandra**. *Lee Ufan: Marking Infinity*. New York: Solomon R. Guggenheim Museum, 2011.
+7. **Nixon, Mignon**, ed. *Eva Hesse*. Cambridge, MA: MIT Press (October Files), 2002.
+8. **Serra, Richard**. *Writings / Interviews*. Chicago: University of Chicago Press, 1994.
 
 ---
-*报告归档节点：九大实践范式一手调研与特征映射完成，成果归档于 `docs/research/practice-paradigms-map.md`。*
+*报告归档节点：实践范式图谱证据核验与来源分级修订完成，成果正式归档于 `docs/research/practice-paradigms-map.md`。*
