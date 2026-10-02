@@ -106,7 +106,7 @@
         *   *官方指令原文 `[PRIMARY TEXT]`*：“On a wall surface, any continuous stretch of wall, using a hard pencil, place fifty points at random. The points should be evenly distributed over the area of the wall. All of the points should be connected by straight lines.”
     *   *实体变体推演 `[FIRST-PARTY ARCHIVE]`*：《Incomplete Open Cubes》(不完整的开方体), 1974 年。
         *   *馆藏档案*：San Francisco Museum of Modern Art (SFMOMA), Accession Number: `97.516.A-KKKKKKKKKK` ([SFMOMA Collection Record](https://www.sfmoma.org/artwork/97.516.A-KKKKKKKKKK/)).
-        *   *规则体系 `[PRIMARY TEXT]`*：基于正方体的 12 条棱边，穷尽推演由 3 至 11 条棱边构成的所有空间连接可能性，剔除旋转同构后，得出 122 个实体结构变体（Sol LeWitt, *The Location of Lines*, 1974）。
+        *   *规则体系 `[PRIMARY TEXT]`*：基于正方体的 12 条棱边，穷尽推演由 3 至 11 条棱边构成的所有空间连接可能性，剔除旋转同构后，得出 122 个实体结构变体（Sol LeWitt, *Incomplete Open Cubes*, New York: John Weber Gallery, 1974）。
 
 #### 4. 参与者实际上被要求做什么
 参与者扮演系统执行者的角色。在二维平面上根据组合规则连线（50 点两两相连产生 $\frac{50 \times 49}{2} = 1225$ 条直线）；在三维空间中依据拓扑排布组装结构单体，不依赖即兴灵感，而是完成逻辑系统的完整遍历。
@@ -209,7 +209,7 @@
 *   **Eva Hesse (伊娃·海瑟)**:
     *   *核心作品 `[FIRST-PARTY ARCHIVE]`*：《Repetition Nineteen III》(重复十九号之三), 1968 年。
         *   *馆藏档案*：The Museum of Modern Art (MoMA), New York. Gift of Charles and Anita Blatt, Object Number: `1004.1969.a-s` ([MoMA Collection Record 81930](https://www.moma.org/collection/works/81930)).
-        *   *材料工艺与安装特征 `[FIRST-PARTY ARCHIVE]`*：19 件纯手工以玻璃纤维与聚酯树脂浇铸制作的筒状单体。各单体规格与形态相似，但由于手工涂覆厚度与材料固化收缩差异，单体之间呈现不规则微差，绝非绝对均质相同；作品直接放置于展厅地面（无基座）；海瑟本人并未指定任何单一固定的陈列排列方式，群组的具体形态与排列间距在每次展览安装时均可发生变化，作品不存在单一首选或理想的安装格式（来源：The Museum of Modern Art Collection Record 81930, Object No. 1004.1969.a-s）。
+        *   *材料工艺与安装特征 `[FIRST-PARTY ARCHIVE]`*：19 件以玻璃纤维与聚酯树脂制作的筒状单体。各单体均为手工制作，尺寸和形态相近但并不完全相同，呈现不规则差异，无一绝对雷同；作品直接放置于展厅地面（无基座）；海瑟本人并未指定任何单一固定的陈列排列方式，群组的具体形态与排列间距在每次展览安装时均可发生变化，作品不存在单一首选或理想的安装格式（来源：The Museum of Modern Art Collection Record 81930, Object No. 1004.1969.a-s）。
     *   *对照作品 `[FIRST-PARTY ARCHIVE]`*：《Accession II》(就位二号), 1967–1968 年。
         *   *馆藏档案*：Detroit Institute of Arts (DIA), Founders Society Purchase, Acc. No. `79.34` ([DIA Collection Record](https://dia.org/collection/accession-ii-58963)). 穿孔钢板立方体内手工穿引上万根聚氯乙烯细管。
 
@@ -459,12 +459,13 @@
 4. **Lee Ufan**. *The Search for Encounter: Open-Ended Art of the 1960s and 70s*. Tokyo: Bijutsu Shuppan-sha, 1971; English edition, London: Lisson Gallery, 2004.
 5. **LeWitt, Sol**. "Paragraphs on Conceptual Art." *Artforum*, Vol. 5, No. 10, Summer (June) 1967, pp. 79–83.
 6. **LeWitt, Sol**. "Sentences on Conceptual Art." *0-9*, No. 5, January 1969, pp. 3–5.
-7. **Matta-Clark, Gordon**. *Splitting*. Artist book / documentation. New York: Loft Press, 1974.
-8. **Morris, Robert**. "Anti Form." *Artforum*, Vol. 6, No. 8, April 1968, pp. 33–35.
-9. **Morris, Robert**. "Notes on Sculpture, Part 4: Beyond Objects." *Artforum*, Vol. 7, No. 8, April 1969, pp. 50–54.
-10. **Ono, Yoko**. *Grapefruit: A Book of Works and Drawings*. Tokyo: Wunternaum Press, 1964 (first edition, 500 copies).
-11. **Serra, Richard**. "Verb List Compilation: Actions to Relate to Oneself." In *Avalanche*, No. 2, Winter 1971, pp. 20–21.
-12. **Walther, Franz Erhard**. *Objekte, benutzen / Work as Action*. Cologne: DuMont Schauberg, 1972.
+7. **LeWitt, Sol**. *Incomplete Open Cubes*. New York: John Weber Gallery, 1974.
+8. **Matta-Clark, Gordon**. *Splitting*. Artist book / documentation. New York: Loft Press, 1974.
+9. **Morris, Robert**. "Anti Form." *Artforum*, Vol. 6, No. 8, April 1968, pp. 33–35.
+10. **Morris, Robert**. "Notes on Sculpture, Part 4: Beyond Objects." *Artforum*, Vol. 7, No. 8, April 1969, pp. 50–54.
+11. **Ono, Yoko**. *Grapefruit: A Book of Works and Drawings*. Tokyo: Wunternaum Press, 1964 (first edition, 500 copies).
+12. **Serra, Richard**. "Verb List Compilation: Actions to Relate to Oneself." In *Avalanche*, No. 2, Winter 1971, pp. 20–21.
+13. **Walther, Franz Erhard**. *Objekte, benutzen / Work as Action*. Cologne: DuMont Schauberg, 1972.
 
 ### 官方机构馆藏档案与编目 `[FIRST-PARTY ARCHIVE]`
 1. **The Museum of Modern Art (MoMA), New York**:
