@@ -23,8 +23,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1. Backward Design (UbD)**<br>(Wiggins & McTighe) | 整门课程与模块层的反向设计骨架（变化 → 证据 → 经验安排） | **ADOPT** | 全课贯穿设计方法论 | 坚持“预期核心变化 → 交付证据 → 实践活动设计”的反向工程纪律，确保所有阶段合同始终围绕交付证据展开。 | `docs/current-course-baseline.md` 一、四节；`docs/stage-1-contract.md` 二.G |
 | **2. Studio Thinking Framework**<br>(Harvard Project Zero) | 艺术实践课堂组织层参照（4 种工坊结构 ＋ 8 种思维习惯） | **REASSIGN** | 微观教学执行层<br>(后续 Day Plans / Workshop Protocols) | 工坊结构（展示讲授、学生作业、评述、展览）与思维习惯属于具体现场组织与师生互动工具，在 Stage Contract 宏观合同层不宜过早冻结，重分配至教案实施层。 | 归档于 Issue #1 第 2.B 节；待 Day Plans 细化时调用 |
-| **3. Experiential Learning**<br>(Kolb 体验学习循环) | 单日内部学习循环（体验 → 观察 → 概念化 → 主动实验） | **ADAPT** | Stage 1 核心学习链与单日微循环 | 肯定“真实经验先于理论反思”、“先做再命名”的核心机制，但在小班实践中转译为更具身体性与物理阻抗博弈的 Action-Feedback Loop，避免机械教条。 | `docs/practice-paradigm-selection.md` 第一节；`docs/stage-1-contract.md` 二.A、二.B |
-| **4. Karpathy-style Persistent Wiki**<br>(长期知识资产边界) | 长期知识复利机制，区分长期知识库与独立课程项目边界 | **ADOPT** | 项目架构与外部知识能力边界 | 明确“课程项目保持独立 Authority，不维护 shadow wiki / shadow sources；Wiki 作为 strong prior 但非 mandatory gate”的架构纪律始终有效。 | `docs/agents/capabilities.md`；Issue #1 第 5 节 |
+| **3. Experiential Learning**<br>(Kolb 体验学习循环) | 单日内部学习循环（体验 → 观察 → 概念化 → 主动实验） | **REASSIGN / REFERENCE** | 后续教案与工坊学习循环参考<br>(Later Day Plans / Workshop learning-cycle reference) | 保留“具体体验 → 反思观察 → 抽象概括 → 再次实验”作为一种候选的微观学习循环模型；它不是本课程物性响应或主客体博弈机制的理论来源，其实际采纳或转译留待后续微观教案设计阶段考量。 | 归档于 Issue #1 第 2.C 节；待 Day Plans 细化时按需参考 |
+| **4. Karpathy-style Persistent Wiki**<br>(知识复利与持久 Wiki 构想) | 长期知识复利机制，区分长期知识库与独立课程项目边界 | **REASSIGN** | 项目知识治理与历史设计参照<br>(Project Knowledge Governance / Historical Design Reference) | 属于项目层知识工作与知识工程架构参照，而非 Stage 1 课程教学内容；明确课程项目独立 Authority 边界，不声称当前文档已完全实现旧有的 obsdiannote 方案，留作长期知识积累与工具链的历史参照。 | Issue #1 第 5 节；`docs/agents/capabilities.md`（外部知识能力接口参照） |
 | **5. “物质的抗拒与手的觉醒”** | 旧方案 2 周 Module 1 的主题口号与早期设想 | **SUPERSEDED-AS-DECISION** | 历史演进档案<br>(保持在 Issue #1) | 官方 1+2+3+2 周框架确立后，Stage 1 聚焦为 1 周 / 16 学时（小班 12 学时 Studio），且核心被升级为“感官再平衡、身体化度量与身体—材料—空间关系”。旧口号不再治理现行设计。 | Issue #1 第 4 节（历史保留）；现由 `docs/stage-1-contract.md` 替代 |
 | **6. 旧模块一演进链条**<br>(控制材料 → 观察材料 → 回应材料 → 材料改变动作与判断 → 私人发现转化为公共经验条件) | 早期第一模块内部推进逻辑 | **ADAPT** | `docs/stage-1-contract.md` 核心学习链、材料逻辑与第二身体探测 | “材料反向改变动作/判断”已提炼升华为主客体双核心之一 `Material-Responsive`；“私人发现转化为公共经验条件”被教师精准升华为“第二身体探测”与“优秀结果转化为供他者进入的物理情境”。核心逻辑完整回收并深化。 | `docs/practice-paradigm-selection.md` 一.2；`docs/stage-1-contract.md` 二.A、二.E、二.F、二.G |
 | **7. 亲身进入**<br>(Direct Bodily Entry) | 早期实践首要原则 | **ADOPT** | 小班核心教学取向与 Stage 1 合同 | 强调具身介入，坚决反对脱离材料与空间的空泛概念推演。 | `docs/current-course-baseline.md` 三.2；`docs/stage-1-contract.md` 二.B、二.C |
@@ -47,14 +47,15 @@
 | **24. 实践机制研究证据图谱**<br>(`practice-paradigms-map.md`) | 九大类机制的客观研究事实与历史谱系 | **HISTORICAL / EVIDENCE PRESERVED** | 保持在 `docs/research/` 证据档案库 | 保持原始客观引证完整性，作为课程机制决断的上游实证支撑，不随课程设计更迭而篡改。 | `docs/research/practice-paradigms-map.md` |
 | **25. 实践机制选择矩阵**<br>(`practice-paradigm-selection.md`) | 课程层实践范式选择与职责划分 | **ADOPT** | 课程层机制决断权威 | 确立双核心驱动（Bounded Action ＋ Material-Responsive）以及九类机制在四阶段中的分级职责（核心、阶段、可选工具、保留）。 | `docs/practice-paradigm-selection.md` |
 | **26. 理查德·塞拉 (Richard Serra)** | 动词清单（Verb List）与《倾斜的弧》（Tilted Arc） | **ADAPT / REASSIGN** | Bounded Action 上位机制溯源（ADAPT）<br>Stage 4 场域参考（REASSIGN） | 塞拉动词清单被升华为主体自我规约的上位机制（Bounded Action），而不机械套用其具体清单；其公共空间介入案例分配至 Stage 4 场域探讨。 | `docs/practice-paradigm-selection.md` 一.1；`docs/current-course-baseline.md` 第五节 |
-| **27. 朱塞佩·佩诺内 (Giuseppe Penone)** | 早期在 Issue #1 提出的艺术家线索（身体触觉、树木留痕、呼吸物化） | **HOLD / LATER RESEARCH** | 阶段性保留储备<br>(归入 Stage 1 后续研究线索) | 佩诺内的创作（如《手和树》、《呼吸》、《光之影》等）高度契合“身体印记、触觉先于视觉、物性共生”，是极具价值的潜在案例。但当前仓库尚未建立其严谨实证证据卡，故归为 HOLD，待教案细化需要时再展开定向研究，不凭空捏造。 | Issue #1 第 7 节；`docs/stage-1-contract.md` 五 |
+| **27. 朱塞佩·佩诺内 (Giuseppe Penone)** | 早期在 Issue #1 提出的艺术家线索 | **HOLD / LATER RESEARCH** | 阶段性保留储备<br>(归入 Stage 1 后续研究储备) | 早期项目记录将其保留为潜在艺术家线索；关于其具体作品、第一手文献依据以及与 Stage 1 教学的实际契合度，需要后续进行具备文献证据支持的定向研究，当前不做未经证实的阐发，不提前展开调研。 | Issue #1 第 7 节；`docs/stage-1-contract.md` 五 |
 
 ---
 
 ## 三、审计结论与未决资产说明
 
-1. **零无故遗弃**：经审计，原 Issue #1、课程基线及实践范式图谱中的 27 项关键概念、教育学模型、书籍文献、教学原则与艺术家线索，均已完成明确的分类与定向归属。
+1. **审计范围边界与有界覆盖说明**：
+   在明确审计的源集合范围（GitHub Issue #1 ＋ 当前仓库权威与研究文档）内，识别出的 27 项关键资产均已完成具体的重分配分类与定向归属。处于本次明确审计范围之外的历史资产（例如外部 NotebookLM 素材、前期讨论对话、未持久化的零散笔记等），**绝不**仅因未出现在本图谱中就被视为已被审计、废弃或淘汰。本资产重分配图谱具备可扩展性（Extensible），随着后续研发阶段其他既有资产真正产生承重需求，将按需持续补充审计并明确归属。
 2. **待验资产处置（HOLD）**：
-   - 唯一标记为 `HOLD / LATER RESEARCH` 的具体艺术家资产为 **朱塞佩·佩诺内 (Giuseppe Penone)**。因目前仓库缺乏其第一手文献与实证案例卡片，按照学术严谨原则将其列入 Stage 1 后续按需研究储备，不提前凭空编造入约。
-3. **微观执行重分配（REASSIGN）**：
-   - **Studio Thinking Framework**、**爱德华·塔夫特 (Small Multiples)**、**程大锦**、**肯尼斯·弗兰姆普敦**、**吴立行**、**罗莎琳·克劳斯**、**文震亨** 以及 **日间桥接机制 (Day-to-day Bridge)**，已安全分配至 Stage 3、Stage 4 或后续的具体逐日教案（Day Plans）执行层，既防止早期阶段认知过载，又确保其长线价值得以实现。
+   - 标记为 `HOLD / LATER RESEARCH` 的艺术家线索为 **朱塞佩·佩诺内 (Giuseppe Penone)**。早期项目记录将其作为潜在艺术家线索保留，其具体作品、一手文献依据及与 Stage 1 教学的匹配度留待后续开展具备文献证据支持的研究，当前不提前展开，不作无证据断言。
+3. **微观执行与外部参照重分配（REASSIGN）**：
+   - **Studio Thinking Framework**、**Experiential Learning (Kolb)**、**爱德华·塔夫特 (Small Multiples)**、**程大锦**、**肯尼斯·弗兰姆普敦**、**吴立行**、**罗莎琳·克劳斯**、**文震亨**、**日间桥接机制 (Day-to-day Bridge)** 以及 **Karpathy-style Persistent Wiki**，已明确重新分配至 Stage 3、Stage 4、微观逐日教案（Day Plans）执行层或项目知识治理参照，既防止早期阶段认知过载与教条束缚，又确保其长线工程与教学价值得以沉淀。
