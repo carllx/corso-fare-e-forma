@@ -3,6 +3,7 @@
 > **文档性质**：阶段教学合同初稿与教师访谈决断沉淀稿（Interview Checkpoint）  
 > **文档状态**：`DRAFT / INTERVIEW CHECKPOINT — NOT FROZEN`  
 > **上游基线**：`docs/current-course-baseline.md`（林昕小班教学基线）  
+> **最新教学地图与现场排课时效提示**：跨阶段综合教学地图及最新核准的现场排期（建筑艺术设计学院 2 班，C5 大厅；周一首堂小班、周二大课、周四/五小班）详见 [`docs/teaching-map.md`](teaching-map.md)；本合同草稿中的排期 logistics 相应由其校准。  
 > **跨阶段前置门禁**：在正式冻结（Freeze）本合同前，必须完成 Browser 主导的 Stage 1–4 低分辨率跨阶段对比排演（Cross-stage Contrast Rehearsal）。
 
 ---
