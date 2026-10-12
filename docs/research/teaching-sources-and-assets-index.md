@@ -167,18 +167,21 @@
 - **艺术家与作品**：Giuseppe Penone (朱塞佩·佩诺内), 《Continuerà a crescere tranne che in quel punto》(它将继续生长，除了那一点)。
 - **第一方档案核验与可复核指针**：
   - **官方作品全集编目 (Artist Raisonné)**：
-    - **编目号 No. 1250**：*Continuerà a crescere tranne che in quel punto*, 1968–2003, 青铜、树 (bronze, tree), 装置于森林现场。来源指针：[Giuseppe Penone Official Archive No. 1250](https://giuseppepenone.com/en/works/1250-continuera-a-crescere-tranne-che-in-quel-punto)。
-    - **编目号 No. 1249**：*Alpi Marittime - trattenere 17 anni di crescita - continuerà a crescere tranne che in quel punto*, 1968–1985, 白蜡树树干与青铜手 (ash-trunk, bronze), 现藏于蓬皮杜艺术中心 (Centre Pompidou, AM 1986-174)。来源指针：[Giuseppe Penone Official Archive No. 1249](https://giuseppepenone.com/it/works/1249-alpi-marittime-trattenere-17-anni-di-crescita-continuera-a-crescere-tranne-che-in-quel-punto)。
-- **核验状态**：`PARTIALLY-SOURCE-VERIFIED`（官方作品全集已核实，澄清了多版本文献；原 `HOLD` 状态解除，纳入 Stage 1–2 候选库 `CANDIDATE FOR STAGE 1-2`）。
+    - **编目号 No. 1250**：*Continuerà a crescere tranne che in quel punto*, 1968–2003。材质：**树、青铜 (tree, bronze)**；馆藏归属：**艺术家自藏 (Artist collection / 森林原位装置)**。来源指针：[Giuseppe Penone Official Archive No. 1250](https://giuseppepenone.com/en/works/1250-continuera-a-crescere-tranne-che-in-quel-punto)。
+    - **编目号 No. 1249**：*Alpi Marittime. Trattenere 17 anni di crescita (Continuerà a crescere tranne che in quel punto)*, 1968–1985。材质：**白蜡树树干 (ash tree trunk)**；馆藏归属：**都灵现当代艺术市立美术馆 (GAM - Galleria Civica d’Arte Moderna e Contemporanea, Turin)**。来源指针：[Giuseppe Penone Official Archive No. 1249](https://giuseppepenone.com/en/works/1249-alpi-marittime-trattenere-17-anni-di-crescita-continuera-a-crescere-tranne-che-in-quel-punto)。
+- **核验状态**：`PARTIALLY-SOURCE-VERIFIED`（官方作品全集档案已核实，区分了 No. 1250 森林青铜活树原位与 No. 1249 都灵 GAM 白蜡树树干馆藏；原 `HOLD` 状态解除，纳入 Stage 1–2 候选库 `CANDIDATE FOR STAGE 1-2`）。
 - **关联主题**：Stage 1 (T1.2, T1.4) / Stage 2 (T2.1)
 
 #### 四层主张拆解：
 1. **实物事实 (`[PRIMARY-OBJECT-FACT]`)**：
-   - 佩诺内并不存在单一的“1968 年青铜手”孤立作品，而是存在**不同的实现版本与文献形式**：1968 年他在皮埃蒙特森林中将手部铸件固定在活树干上（No. 1250）；而在 1985 年，部分包含树木包裹痕迹的树干被切割移入美术馆展陈（蓬皮杜收藏，No. 1249，名为《Alpi Marittime - trattenere 17 anni di crescita》）。树干随年轮生长包裹青铜手，形成了树木对金属外力的物质包裹与压力疤痕。
+   - 佩诺内官方全集编目明确区分了**两件独立的作品形态与馆藏归属**：
+     - **No. 1250** 为 1968–2003 年在森林自然现场生长的树木与青铜构件，由艺术家自藏保留在原位；
+     - **No. 1249** 为 1968–1985 年生长的白蜡树树干（ash tree trunk），记录了 17 年的生长包裹过程，现由都灵现当代艺术市立美术馆（GAM Turin）永久收藏。
+   - 消除此前将两件编目混淆、误植不相关机构编目的错误，严格保持 No. 1249（都灵 GAM，白蜡树干）与 No. 1250（艺术家自藏，活树与青铜）的实物区别。
 2. **机构阐释 (`[INSTITUTIONAL-INTERPRETATION]`)**：
-   - 蓬皮杜艺术中心与都灵利沃利城堡策展说明指出：佩诺内将雕塑重新定义为活体生物在时间中的生长过程，人的身体动作通过青铜被“固化”在树木漫长的植物生命节奏之中。
+   - 都灵 GAM 与利沃利城堡策展档案指出：佩诺内将雕塑重新定义为活体生物在时间中的生长过程，树木随年轮的木质化生长对施加外力的接触点形成物质响应与有机疤痕。
 3. **艺术家观点 (`[AUTHOR-VIEW]`)**：
-   - （意译转述，去除无直接页码的引语）：佩诺内在其自述《Respirare l'ombra》(1999) 中阐明，森林与流动的溪水是其原初记忆；雕塑不是外在的造型，而是身体压力与活体材料在漫长生长岁月中的触觉交融。
+   - （意译转述，去除无直接页码的引语）：佩诺内在其自述《Respirare l'ombra》(1999) 中阐明，森林与流动的溪水是其原初记忆；雕塑不是外在的造型强加，而是身体压力与活体材料在漫长生长岁月中的触觉交融。
 4. **教学转译 (`[PEDAGOGICAL-TRANSLATION]`)**：
    - 用于 Stage 1 与 Stage 2：展示身体触碰与活体自然材料的遭遇，说明材料不是静态等待加工的石膏块，而是具备自身物理与时间尺度的生命系统。
 5. **待核事项 (`[UNVERIFIED / OPEN]`)**：
@@ -232,20 +235,20 @@
 
 ## 四、既有研究资产基于指针的覆盖索引总表 (Pointer-based Coverage Index Ledger)
 
-> **性质声明**：本表对仓库基线第五节书目、历史重分配图谱（27项）及实践范式图谱（9类）进行**跨文档指针索引 (Pointer-based Index)**，旨在建立可追溯指引，**绝不冒充已完整抄录复制其完整研究记录**。
+> **性质声明与标签对齐**：本表对仓库基线第五节书目、历史重分配图谱（27项）及实践范式图谱（9类）进行**跨文档指针索引 (Pointer-based Index)**，旨在建立可追溯指引，**绝不冒充已完整抄录复制其完整研究记录**。已全面清理遗留的宽泛旧标签；外部未核验参考书目仅保留为候选书目指针 (`[CANDIDATE-TEXT-POINTER]`)，尚未开展逐章核验前不升级为已验证事实；IDE 本地阅读的 Ingold EPUB 在远程保持 Reported Provenance 证据声明。
 
 | 资产唯一编号 | 资产名称与定位指针 | 原始出处 / 档案引用 | 课程阶段归属 | 证据级别 | 当前状态与处理建议 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `SRC-BK-INGOLD` | **Tim Ingold《Making》**<br>`baseline.md` 表第1项 | Routledge, 2013; ISBN: 9780415567886 | Stage 1 (T1.1, T1.5)<br>及工坊方法 | `[DIRECT-EVIDENCE]` | **ADAPT / SOURCE-VERIFIED**<br>已完成第1轮核验，提取阿伯丁 The 4 As 工坊实验与质料形式论批判。 |
-| `SRC-BK-CHING` | **程大锦《建筑：形式、空间与秩序》**<br>`baseline.md` 表第2项 | Francis D.K. Ching, 4th ed., Wiley, 2014 | Stage 3 (T3.1, T3.2) | `[DIRECT-EVIDENCE]` | **REASSIGN / CANDIDATE**<br>重分配至 Stage 3 基础造型与空间语法参考，Stage 1 不引入。 |
-| `SRC-BK-TUFTE` | **爱德华·塔夫特《定量信息的视觉展示》**<br>`baseline.md` 表第3项 | Edward Tufte, Graphics Press, 1983/2001 | Stage 3 (T3.5) | `[DIRECT-EVIDENCE]` | **REASSIGN / CANDIDATE**<br>提取其“小型复数（Small Multiples）”作为变体矩阵记录方法候选。 |
-| `SRC-BK-KRAUSS` | **罗莎琳·克劳斯《现代雕塑的变迁》**<br>`baseline.md` 表第4项 | Rosalind Krauss, *Passages in Modern Sculpture*, MIT Press, 1981 | Stage 4 (T4.3) | `[DIRECT-EVIDENCE]` | **REASSIGN / CANDIDATE**<br>重分配至 Stage 4 探讨雕塑脱离基座、进入场域与观众身体的遭遇。 |
-| `SRC-BK-WEN` | **文震亨《长物志》**<br>`baseline.md` 表第5项 | 明代崇祯年间刊本；陈植校注本，江苏科技，1984 | Stage 4 (T4.4) | `[DIRECT-EVIDENCE]` | **REASSIGN / CANDIDATE**<br>供反思实体造物与环境空灵虚静关系的文化参照，归属 Stage 4。 |
-| `SRC-BK-FRAMPTON` | **肯尼斯·弗兰姆普敦《建构文化研究》**<br>`baseline.md` 表第6项 | Kenneth Frampton, *Studies in Tectonic Culture*, MIT Press, 1995 | Stage 3 (T3.3) | `[DIRECT-EVIDENCE]` | **REASSIGN / CANDIDATE**<br>提炼其“构造节点（The Joint）”与咬合原理，作为结构推演候选思路。 |
-| `SRC-BK-WU` | **吴立行《考工记：工匠·功能·风格》**<br>`baseline.md` 表第7项 | 吴立行著，生活·读书·新知三联书店，2020 | Stage 3 (T3.4) | `[DIRECT-EVIDENCE]` | **REASSIGN / CANDIDATE**<br>模件化与微小变体生成的历史工程参照，归属 Stage 3。 |
-| `SRC-DOC-PARADIGMS` | **九大实践范式研究图谱**<br>`docs/research/practice-paradigms-map.md` | 514行独立研究档案，含Fluxus, LeWitt, Serra, Ono等一手档案 | 全课基础研究库 | `[DIRECT-EVIDENCE] & [RESEARCHER-SYNTHESIS]` | **HISTORICAL EVIDENCE PRESERVED**<br>保持为上游实证支撑指针，不随课程设计更迭而篡改。 |
+| `SRC-BK-INGOLD` | **Tim Ingold《Making》**<br>`baseline.md` 表第1项 | Routledge, 2013; ISBN: 9780415567886 | Stage 1 (T1.1, T1.5)<br>及工坊方法 | `[PRIMARY-TEXT-EXTRACTED / REPORTED-PROVENANCE]` | **ADAPT / PARTIALLY-SOURCE-VERIFIED**<br>IDE 本地原著核验提取 The 4 As 工坊实验与质料形式论批判；远程视角为 Reported Provenance。 |
+| `SRC-BK-CHING` | **程大锦《建筑：形式、空间与秩序》**<br>`baseline.md` 表第2项 | Francis D.K. Ching, 4th ed., Wiley, 2014 | Stage 3 (T3.1, T3.2) | `[CANDIDATE-TEXT-POINTER]` | **REASSIGN / CANDIDATE**<br>重分配至 Stage 3 基础造型与空间语法候选参考，未核验原文前不作已验证定性。 |
+| `SRC-BK-TUFTE` | **爱德华·塔夫特《定量信息的视觉展示》**<br>`baseline.md` 表第3项 | Edward Tufte, Graphics Press, 1983/2001 | Stage 3 (T3.5) | `[CANDIDATE-TEXT-POINTER]` | **REASSIGN / CANDIDATE**<br>提取其“小型复数（Small Multiples）”作为变体矩阵记录候选方法。 |
+| `SRC-BK-KRAUSS` | **罗莎琳·克劳斯《现代雕塑的变迁》**<br>`baseline.md` 表第4项 | Rosalind Krauss, *Passages in Modern Sculpture*, MIT Press, 1981 | Stage 4 (T4.3) | `[CANDIDATE-TEXT-POINTER]` | **REASSIGN / CANDIDATE**<br>重分配至 Stage 4 探讨雕塑脱离基座、进入场域与观众身体的遭遇候选。 |
+| `SRC-BK-WEN` | **文震亨《长物志》**<br>`baseline.md` 表第5项 | 明代崇祯年间刊本；陈植校注本，江苏科技，1984 | Stage 4 (T4.4) | `[CANDIDATE-TEXT-POINTER]` | **REASSIGN / CANDIDATE**<br>供反思实体造物与环境空灵虚静关系的文化参照候选，归属 Stage 4。 |
+| `SRC-BK-FRAMPTON` | **肯尼斯·弗兰姆普敦《建构文化研究》**<br>`baseline.md` 表第6项 | Kenneth Frampton, *Studies in Tectonic Culture*, MIT Press, 1995 | Stage 3 (T3.3) | `[CANDIDATE-TEXT-POINTER]` | **REASSIGN / CANDIDATE**<br>提炼其“构造节点（The Joint）”与咬合原理，作为结构推演候选思路。 |
+| `SRC-BK-WU` | **吴立行《考工记：工匠·功能·风格》**<br>`baseline.md` 表第7项 | 吴立行著，生活·读书·新知三联书店，2020 | Stage 3 (T3.4) | `[CANDIDATE-TEXT-POINTER]` | **REASSIGN / CANDIDATE**<br>模件化与微小变体生成的历史工程参照候选，归属 Stage 3。 |
+| `SRC-DOC-PARADIGMS` | **九大实践范式研究图谱**<br>`docs/research/practice-paradigms-map.md` | 514行独立研究档案，含Fluxus, LeWitt, Serra, Ono等一手档案 | 全课基础研究库 | `[FIRST-PARTY-ARCHIVES & RESEARCHER-SYNTHESIS]` | **HISTORICAL EVIDENCE PRESERVED**<br>保持为上游实证支撑指针，不随课程设计更迭而篡改。 |
 | `SRC-DOC-REALLOC` | **27 项历史资产重分配图谱**<br>`docs/research/stage-1-legacy-asset-reallocation.md` | 62行研发溯源与重分配档案（含UbD, Studio Thinking, Kolb等） | 全课研发演进 | `[POINTER-BASED COVERAGE]` | **HISTORICAL EVIDENCE PRESERVED**<br>指针式索引历史演进，明确各项资产的阶段归属与重分配路径。 |
-| `SRC-ART-LEWITT` | **索尔·勒维特《Wall Drawing 159 / 118》** | LeWitt 1967 宣言与 MoMA 藏品编目 | Stage 3 (T3.5) | `[DIRECT-EVIDENCE]` | **SOURCE-VERIFIED / DISCUSSED DEFAULT**<br>作为规则生成的候选分支，但不替代材料反向修正。 |
+| `SRC-ART-LEWITT` | **索尔·勒维特《Wall Drawing 159 / 118》** | LeWitt 1967 宣言与 MoMA 藏品编目 | Stage 3 (T3.5) | `[PRIMARY-OBJECT-FACT & AUTHOR-VIEW]` | **SOURCE-VERIFIED / DISCUSSED DEFAULT**<br>作为规则生成的候选分支，但不替代材料反向修正。 |
 
 ---
 
