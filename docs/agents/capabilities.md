@@ -40,3 +40,19 @@ Evidence semantics:
 - NotebookLM results remain Reported with provenance;
 - NotebookLM is not Project Authority;
 - adopted conclusions must be persisted back into the appropriate repo artifact before becoming shared project state.
+
+## course-mindmap
+- Kind: visual-knowledge / collaborative-mindmap
+- Provider: Whimsical
+- Purpose: 四阶段课程知识结构、22 个候选知识主题、艺术家与作品案例的可视化协作和教学对照
+- Known host: ChatGPT Browser（已通过 Whimsical 连接验证读写能力）
+- Locator: https://whimsical.com/MPwgA6RTzw5B1YGtADuhdd
+- Authority: 非规范性协作视图；GitHub 课程文档、研究索引与已确认教师决定仍为正式依据
+
+### Usage Rules & Boundary
+1. 当任务涉及课程知识点、艺术家案例、四阶段结构或教学衔接时，Agent 按需读取最新思维导图，与 GitHub 当前权威内容对照。
+2. 聚焦教师的新增、删除、修改和节点调整，分析其教学意图及跨阶段影响。
+3. 仅当有明确作者证据时，才将修改认定为教师操作；不能识别时标记 `UNATTRIBUTED`。
+4. 当前 `Primary` 与 `carllllllllx` 连接实际对应同一 Whimsical 身份，不得将其误认为两个独立的修改者。
+5. 导图变化不自动成为教师确认的正式决策。实质性课程决定须经教师确认后回写现有 GitHub 权威文档。
+6. 此声明只提供按需访问能力，不代表自动启用后台监控或定期同步。
