@@ -47,7 +47,7 @@ Evidence semantics:
 - Purpose: 四阶段课程知识结构、22 个候选知识主题、艺术家与作品案例的可视化协作和教学对照
 - Known host: ChatGPT Browser（已通过 Whimsical 连接验证读写能力）
 - Locator: https://whimsical.com/MPwgA6RTzw5B1YGtADuhdd
-- Authority: 非规范性协作视图；GitHub 课程文档、研究索引与已确认教师决定仍为正式依据
+- Authority: Whimsical 为非规范性协作视图；正式教学依据以学校正式大纲、GitHub 当前适用课程基线及已确认的教师决定为准；docs/research/teaching-sources-and-assets-index.md 仅作为非规范候选研究与来源证据索引；PR #12 教学地图在合并前仍为在途提案。
 
 ### Usage Rules & Boundary
 1. 当任务涉及课程知识点、艺术家案例、四阶段结构或教学衔接时，Agent 按需读取最新思维导图，与 GitHub 当前权威内容对照。
